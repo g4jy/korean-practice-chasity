@@ -1,0 +1,8399 @@
+{
+  "student": {
+    "name": "Chasity M",
+    "preplyId": "8432398",
+    "level": "beginner",
+    "totalLessons": 17,
+    "lastUpdated": "2026-02-22"
+  },
+  "vocabulary": [
+    {
+      "id": 1,
+      "korean": "가주세요",
+      "english": "Please go to (destination)",
+      "romanization": "Ga juseyo",
+      "pos": "phrase",
+      "category": "expressions",
+      "example": "카페 가주세요 (Please go to the cafe - taxi context)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "korean": "감사합니다",
+      "english": "Thank you (formal)",
+      "romanization": "Gamsahamnida",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "",
+      "lessons": [
+        0,
+        13
+      ]
+    },
+    {
+      "id": 3,
+      "korean": "나라",
+      "english": "Country",
+      "romanization": "Nara",
+      "pos": "noun",
+      "category": "places",
+      "example": "우리 나라 (our country)",
+      "lessons": [
+        0,
+        16
+      ]
+    },
+    {
+      "id": 4,
+      "korean": "남편",
+      "english": "Husband",
+      "romanization": "Nampyeon",
+      "pos": "noun",
+      "category": "people",
+      "example": "우리 남편 (our husband)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "korean": "내",
+      "english": "My (for objects)",
+      "romanization": "Nae",
+      "pos": "pronoun",
+      "category": "people",
+      "example": "내 phone (my phone)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "korean": "또 올게요",
+      "english": "I will come again",
+      "romanization": "Ddo olgeyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "또 올게요! (linked: 똘게요)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "korean": "라떼",
+      "english": "Latte",
+      "romanization": "Latte",
+      "pos": "noun",
+      "category": "food",
+      "example": "라떼 하나 주세요 (One latte please)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 8,
+      "korean": "수고하세요",
+      "english": "Keep working hard / Goodbye (polite, to service workers)",
+      "romanization": "Sugo-haseyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "수고하세요~ (natural: 수고아세요 with H-drop)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 9,
+      "korean": "아메리카노",
+      "english": "Americano (coffee)",
+      "romanization": "Amerikano",
+      "pos": "noun",
+      "category": "food",
+      "example": "아메리카노 하나 주세요 (One Americano please)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 10,
+      "korean": "안녕하세요",
+      "english": "Hello (polite)",
+      "romanization": "Annyeonghaseyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "안녕하세요 Chasity! 잘 지냈어요?",
+      "lessons": [
+        0,
+        13
+      ]
+    },
+    {
+      "id": 11,
+      "korean": "여기요",
+      "english": "Here / I am here (calling attention)",
+      "romanization": "Yeogiyo",
+      "pos": "phrase",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 12,
+      "korean": "우리",
+      "english": "Our / We (for relationships, communities)",
+      "romanization": "Uri",
+      "pos": "pronoun",
+      "category": "people",
+      "example": "Used instead of 'my' for family, country (collectivism)",
+      "lessons": [
+        0,
+        9
+      ]
+    },
+    {
+      "id": 13,
+      "korean": "저기요",
+      "english": "Excuse me / Over there (calling someone far away)",
+      "romanization": "Jeogiyo",
+      "pos": "phrase",
+      "category": "expressions",
+      "example": "저기요~ (Excuse me~, elongated for warmth)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "korean": "죄송합니다",
+      "english": "I'm sorry (formal)",
+      "romanization": "Joesonghamnida",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "",
+      "lessons": [
+        0,
+        13
+      ]
+    },
+    {
+      "id": 15,
+      "korean": "주세요",
+      "english": "Please give me / Please",
+      "romanization": "Juseyo",
+      "pos": "verb",
+      "category": "expressions",
+      "example": "아메리카노 하나 주세요 (One Americano please)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 16,
+      "korean": "집",
+      "english": "House / Home",
+      "romanization": "Jip",
+      "pos": "noun",
+      "category": "places",
+      "example": "집에 갔어요 (I went home)",
+      "lessons": [
+        0,
+        10,
+        13
+      ]
+    },
+    {
+      "id": 17,
+      "korean": "하나",
+      "english": "One",
+      "romanization": "Hana",
+      "pos": "noun",
+      "category": "objects",
+      "example": "하나 주세요 (One please)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 18,
+      "korean": "결제",
+      "english": "Payment",
+      "romanization": "Gyeol-je",
+      "pos": "noun",
+      "category": "objects",
+      "example": "카드로 결제할게요 (I will pay by card)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 19,
+      "korean": "괜찮아요",
+      "english": "It's okay / I'm fine / No thank you",
+      "romanization": "Gwaen-chan-a-yo",
+      "pos": "phrase",
+      "category": "expressions",
+      "example": "괜찮아요 (It's okay / No thank you)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 20,
+      "korean": "돼요",
+      "english": "Is it okay / Is allowed (permission)",
+      "romanization": "Dwae-yo",
+      "pos": "verb",
+      "category": "expressions",
+      "example": "사진 찍어도 돼요? (May I take a photo?)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 21,
+      "korean": "로",
+      "english": "By / With (means/instrument particle)",
+      "romanization": "Ro",
+      "pos": "particle",
+      "category": "grammar",
+      "example": "카드로 결제할게요 (I will pay by card)",
+      "lessons": [
+        1,
+        10
+      ]
+    },
+    {
+      "id": 22,
+      "korean": "먹을게요",
+      "english": "I will eat",
+      "romanization": "Meogeul-ge-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "여기서 먹을게요 (I will eat here)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 23,
+      "korean": "메뉴판",
+      "english": "menu (board)",
+      "romanization": "Menyu-pan",
+      "pos": "noun",
+      "category": "objects",
+      "example": "메뉴판 좀 주세요 (Please give me the menu)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 24,
+      "korean": "물",
+      "english": "Water",
+      "romanization": "Mul",
+      "pos": "noun",
+      "category": "food",
+      "example": "물 한잔 주세요 (One glass of water please)",
+      "lessons": [
+        1,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": 25,
+      "korean": "사진",
+      "english": "Photo / Picture",
+      "romanization": "Sa-jin",
+      "pos": "noun",
+      "category": "objects",
+      "example": "사진 찍어도 될까요? (May I take a picture?)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 26,
+      "korean": "어디예요",
+      "english": "Where is",
+      "romanization": "Eo-di-ye-yo",
+      "pos": "phrase",
+      "category": "expressions",
+      "example": "화장실 어디예요? (Where is the bathroom?)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 27,
+      "korean": "여기서",
+      "english": "Here (location particle attached)",
+      "romanization": "Yeogi-seo",
+      "pos": "adverb",
+      "category": "places",
+      "example": "여기서 먹을게요 (I will eat here)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 28,
+      "korean": "영수증",
+      "english": "Receipt",
+      "romanization": "Yeong-su-jeung",
+      "pos": "noun",
+      "category": "objects",
+      "example": "영수증 주세요 (Receipt, please)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 29,
+      "korean": "좀",
+      "english": "A little / Softener word (polite)",
+      "romanization": "Jom",
+      "pos": "adverb",
+      "category": "expressions",
+      "example": "메뉴판 좀 주세요 (Menu please - softened)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 30,
+      "korean": "찍어도",
+      "english": "Even if (I) take (a photo)",
+      "romanization": "Jjig-eo-do",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "사진 찍어도 돼요? (May I take a photo?)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 31,
+      "korean": "카드",
+      "english": "Card (credit/debit)",
+      "romanization": "Kadeu",
+      "pos": "noun",
+      "category": "objects",
+      "example": "카드로 결제할게요 (I will pay by card)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 32,
+      "korean": "카페",
+      "english": "Cafe",
+      "romanization": "Kape",
+      "pos": "noun",
+      "category": "places",
+      "example": "카페 가주세요 (Please go to the cafe)",
+      "lessons": [
+        1,
+        10,
+        13
+      ]
+    },
+    {
+      "id": 33,
+      "korean": "포장",
+      "english": "Wrap up / Takeout / To-go",
+      "romanization": "Pojang",
+      "pos": "noun",
+      "category": "food",
+      "example": "포장해 주세요 (Take out, please)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 34,
+      "korean": "한잔",
+      "english": "One glass / One cup",
+      "romanization": "Han-jan",
+      "pos": "noun",
+      "category": "objects",
+      "example": "물 한잔 주세요 (One glass of water please)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 35,
+      "korean": "할게요",
+      "english": "I will do",
+      "romanization": "Hal-ge-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "결제할게요 (I will pay)",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 36,
+      "korean": "화장실",
+      "english": "bathroom / restroom",
+      "romanization": "Hwa-jang-sil",
+      "pos": "noun",
+      "category": "places",
+      "example": "화장실이 어디예요? (Where is the bathroom?)",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 37,
+      "korean": "거기",
+      "english": "There (reference, middle distance)",
+      "romanization": "Geogi",
+      "pos": "noun",
+      "category": "places",
+      "example": "",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 38,
+      "korean": "네",
+      "english": "Yes",
+      "romanization": "Ne",
+      "pos": "adverb",
+      "category": "expressions",
+      "example": "네, 있어요 (Yes, we have it)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 39,
+      "korean": "드릴까요",
+      "english": "Shall I give you / Would you like",
+      "romanization": "Deurilkkayo",
+      "pos": "verb",
+      "category": "expressions",
+      "example": "차가운 거 드릴까요? (Shall I give you a cold one?)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 40,
+      "korean": "따뜻한 거",
+      "english": "Hot one / Warm",
+      "romanization": "Ddaddeutan geo",
+      "pos": "phrase",
+      "category": "food",
+      "example": "따뜻한 거 드릴까요? (Would you like a hot one?)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 41,
+      "korean": "아이스",
+      "english": "Iced",
+      "romanization": "Aiseu",
+      "pos": "noun",
+      "category": "food",
+      "example": "아이스 주세요 (Iced please)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 42,
+      "korean": "안녕히 가세요",
+      "english": "Goodbye (said to person leaving)",
+      "romanization": "Annyeonghi gaseyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "안녕히 가세요! (Goodbye - you go safely)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 43,
+      "korean": "안녕히 계세요",
+      "english": "Goodbye (said to person staying)",
+      "romanization": "Annyeonghi gyeseyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "안녕히 계세요! (Goodbye - I'm leaving, you stay safe)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 44,
+      "korean": "어디",
+      "english": "Where",
+      "romanization": "Eodi",
+      "pos": "noun",
+      "category": "grammar",
+      "example": "어디에 가요? (Where are you going?)",
+      "lessons": [
+        2,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 45,
+      "korean": "없어요",
+      "english": "There is not / Don't have",
+      "romanization": "Eopseoyo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Cafe latte 없어요 (We don't have cafe latte)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 46,
+      "korean": "에",
+      "english": "To/at (direction particle)",
+      "romanization": "E",
+      "pos": "particle",
+      "category": "grammar",
+      "example": "카페에 가요 (I go to the cafe)",
+      "lessons": [
+        2,
+        3,
+        8
+      ]
+    },
+    {
+      "id": 47,
+      "korean": "여기",
+      "english": "Here",
+      "romanization": "Yeogi",
+      "pos": "noun",
+      "category": "places",
+      "example": "여기요 (Here! - calling attention)",
+      "lessons": [
+        2,
+        13
+      ]
+    },
+    {
+      "id": 48,
+      "korean": "있어요",
+      "english": "There is / Do you have / Exists",
+      "romanization": "Isseoyo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Cafe latte 있어요? (Do you have cafe latte?)",
+      "lessons": [
+        2,
+        10
+      ]
+    },
+    {
+      "id": 49,
+      "korean": "저기",
+      "english": "There (far)",
+      "romanization": "Jeogi",
+      "pos": "noun",
+      "category": "places",
+      "example": "저기요 (Excuse me - calling someone far)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 50,
+      "korean": "차가운 거",
+      "english": "Cold one / Iced",
+      "romanization": "Chagaun geo",
+      "pos": "phrase",
+      "category": "food",
+      "example": "차가운 거 드릴까요? (Would you like a cold one?)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 51,
+      "korean": "2층",
+      "english": "2nd floor",
+      "romanization": "I-cheung",
+      "pos": "noun",
+      "category": "places",
+      "example": "2층이에요 (It's on the 2nd floor)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 52,
+      "korean": "ㄱ",
+      "english": "Consonant: g/k",
+      "romanization": "g/k",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "가 (ga)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 53,
+      "korean": "ㄲ",
+      "english": "Double consonant: kk (tense)",
+      "romanization": "kk",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "까 (kka)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 54,
+      "korean": "ㄴ",
+      "english": "Consonant: n",
+      "romanization": "n",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "나 (na)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 55,
+      "korean": "ㄷ",
+      "english": "Consonant: d/t",
+      "romanization": "d/t",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "다 (da)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 56,
+      "korean": "ㄸ",
+      "english": "Double consonant: tt (tense)",
+      "romanization": "tt",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "따 (tta)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 57,
+      "korean": "ㄹ",
+      "english": "Consonant: r/l (between English L and R)",
+      "romanization": "r/l",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "라 (ra)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 58,
+      "korean": "ㅁ",
+      "english": "Consonant: m",
+      "romanization": "m",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "마 (ma)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 59,
+      "korean": "ㅂ",
+      "english": "Consonant: b/p (softer than English B)",
+      "romanization": "b/p",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "바 (ba)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 60,
+      "korean": "ㅃ",
+      "english": "Double consonant: pp (tense)",
+      "romanization": "pp",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "빠 (ppa)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 61,
+      "korean": "ㅅ",
+      "english": "Consonant: s (softer than English S)",
+      "romanization": "s",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "사 (sa)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 62,
+      "korean": "ㅆ",
+      "english": "Double consonant: ss (tense)",
+      "romanization": "ss",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "싸 (ssa)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 63,
+      "korean": "ㅇ",
+      "english": "Consonant: silent (placeholder)",
+      "romanization": "(silent)",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "아 (a)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 64,
+      "korean": "ㅈ",
+      "english": "Consonant: j",
+      "romanization": "j",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "자 (ja)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 65,
+      "korean": "ㅉ",
+      "english": "Double consonant: jj (tense)",
+      "romanization": "jj",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "짜 (jja)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 66,
+      "korean": "ㅊ",
+      "english": "Consonant: ch (aspirated)",
+      "romanization": "ch",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "차 (cha)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 67,
+      "korean": "ㅋ",
+      "english": "Consonant: k (aspirated)",
+      "romanization": "k",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "카 (ka)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 68,
+      "korean": "ㅌ",
+      "english": "Consonant: t (aspirated)",
+      "romanization": "t",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "타 (ta)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 69,
+      "korean": "ㅍ",
+      "english": "Consonant: p (aspirated)",
+      "romanization": "p",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "파 (pa)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 70,
+      "korean": "ㅎ",
+      "english": "Consonant: h",
+      "romanization": "h",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "하 (ha)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 71,
+      "korean": "나",
+      "english": "I / Me",
+      "romanization": "Na",
+      "pos": "pronoun",
+      "category": "people",
+      "example": "나 (I - informal)",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 72,
+      "korean": "모음",
+      "english": "Vowels",
+      "romanization": "Moeum",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 73,
+      "korean": "쌍자음",
+      "english": "Double consonants",
+      "romanization": "Ssang-jaeum",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 74,
+      "korean": "아",
+      "english": "Vowel sound: ah",
+      "romanization": "a",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 75,
+      "korean": "애",
+      "english": "Vowel sound: ae",
+      "romanization": "ae",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 76,
+      "korean": "야",
+      "english": "Vowel sound: ya",
+      "romanization": "ya",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 77,
+      "korean": "오",
+      "english": "Vowel sound: oh (jaw dropped, lips rounded)",
+      "romanization": "o",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 78,
+      "korean": "와",
+      "english": "Wow (exclamation)",
+      "romanization": "Wa",
+      "pos": "phrase",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 79,
+      "korean": "요",
+      "english": "Vowel sound: yo",
+      "romanization": "yo",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 80,
+      "korean": "우",
+      "english": "Vowel sound: oo (lips pursed, jaw dropped)",
+      "romanization": "u",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 81,
+      "korean": "유",
+      "english": "Vowel sound: yu",
+      "romanization": "yu",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 82,
+      "korean": "으",
+      "english": "Vowel sound: eu (unique Korean sound, jaw NOT dropped)",
+      "romanization": "eu",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 83,
+      "korean": "이",
+      "english": "Vowel sound: ee",
+      "romanization": "i",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 84,
+      "korean": "자음",
+      "english": "Consonants",
+      "romanization": "Jaeum",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 85,
+      "korean": "코",
+      "english": "Nose",
+      "romanization": "Ko",
+      "pos": "noun",
+      "category": "body",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 86,
+      "korean": "한글",
+      "english": "Korean alphabet",
+      "romanization": "Hangeul",
+      "pos": "noun",
+      "category": "hangul",
+      "example": "",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 87,
+      "korean": "고기",
+      "english": "Meat",
+      "romanization": "Gogi",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 88,
+      "korean": "과일",
+      "english": "Fruit",
+      "romanization": "Gwail",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 89,
+      "korean": "국",
+      "english": "Soup",
+      "romanization": "Guk",
+      "pos": "noun",
+      "category": "food",
+      "example": "국 뜨거워요 (Soup is hot)",
+      "lessons": [
+        5,
+        14,
+        16
+      ]
+    },
+    {
+      "id": 90,
+      "korean": "면",
+      "english": "Noodles",
+      "romanization": "Myeon",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 91,
+      "korean": "반찬",
+      "english": "Side dishes (served with rice, unlimited free refills)",
+      "romanization": "Banchan",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 92,
+      "korean": "밥",
+      "english": "Rice / Meal",
+      "romanization": "Bap",
+      "pos": "noun",
+      "category": "food",
+      "example": "밥 주세요 (Rice please)",
+      "lessons": [
+        5,
+        16
+      ]
+    },
+    {
+      "id": 93,
+      "korean": "보쌈",
+      "english": "Bossam (steamed pork with lettuce wraps)",
+      "romanization": "Bossam",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 94,
+      "korean": "빵",
+      "english": "Bread",
+      "romanization": "Ppang",
+      "pos": "noun",
+      "category": "food",
+      "example": "빵이 차가워요 (The bread is cold)",
+      "lessons": [
+        5,
+        14
+      ]
+    },
+    {
+      "id": 95,
+      "korean": "싱글",
+      "english": "Single / Unmarried (Konglish)",
+      "romanization": "Singeul",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 96,
+      "korean": "좋아요",
+      "english": "It's good (describes object's condition)",
+      "romanization": "Joayo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "좋아요 spoken as 조아요 (H-drop rule)",
+      "lessons": [
+        5,
+        11,
+        13
+      ]
+    },
+    {
+      "id": 97,
+      "korean": "좋아해요",
+      "english": "I like it (describes speaker's attitude)",
+      "romanization": "Joahaeyo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 조깅을 좋아해요 (I like jogging)",
+      "lessons": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": 98,
+      "korean": "찌개",
+      "english": "Jjigae / Stew (kimchi, pork, tofu)",
+      "romanization": "Jjigae",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 99,
+      "korean": "차",
+      "english": "Tea",
+      "romanization": "Cha",
+      "pos": "noun",
+      "category": "food",
+      "example": "차 마시고 싶어요 (I want to drink tea)",
+      "lessons": [
+        5,
+        13,
+        14
+      ]
+    },
+    {
+      "id": 100,
+      "korean": "커피",
+      "english": "Coffee",
+      "romanization": "Keopi",
+      "pos": "noun",
+      "category": "food",
+      "example": "커피가 차가워요 (Coffee is cold)",
+      "lessons": [
+        5,
+        13,
+        14
+      ]
+    },
+    {
+      "id": 101,
+      "korean": "헬스",
+      "english": "Gym (Konglish: from 'health')",
+      "romanization": "Helseu",
+      "pos": "noun",
+      "category": "places",
+      "example": "",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 102,
+      "korean": "가고",
+      "english": "Go and... (connective form)",
+      "romanization": "Gago",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 103,
+      "korean": "가다",
+      "english": "To go (dictionary form)",
+      "romanization": "Gada",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "교회에 갔어요 (I went to church)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 104,
+      "korean": "가면",
+      "english": "If/when (you) go",
+      "romanization": "Gamyeon",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 105,
+      "korean": "가요",
+      "english": "Go / Going (polite form)",
+      "romanization": "Gayo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "어디에 가요? (Where are you going?)",
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 106,
+      "korean": "고구마",
+      "english": "Sweet potato",
+      "romanization": "Goguma",
+      "pos": "noun",
+      "category": "food",
+      "example": "고구마 먹었어요 (I ate sweet potato)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 107,
+      "korean": "다",
+      "english": "Dictionary/neutral verb ending particle",
+      "romanization": "Da",
+      "pos": "particle",
+      "category": "grammar",
+      "example": "가다 (to go), 먹다 (to eat)",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 108,
+      "korean": "마시다",
+      "english": "To drink (dictionary form)",
+      "romanization": "Masida",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "어제 뭐 마셨어요? (What did you drink yesterday?)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 109,
+      "korean": "먹다",
+      "english": "To eat (dictionary form)",
+      "romanization": "Meokda",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "고구마 먹었어요 (I ate sweet potato)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 110,
+      "korean": "먹어요",
+      "english": "Eat / Eating (polite form; pronounced 머거요)",
+      "romanization": "Meogeoyo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "고구마 먹어요 (I eat sweet potato)",
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 111,
+      "korean": "뭐",
+      "english": "What",
+      "romanization": "Mwo",
+      "pos": "pronoun",
+      "category": "grammar",
+      "example": "뭐 먹었어요? (What did you eat?)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 112,
+      "korean": "미국",
+      "english": "USA / America",
+      "romanization": "Miguk",
+      "pos": "noun",
+      "category": "places",
+      "example": "미국에서 왔어요 (I came from the USA)",
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 113,
+      "korean": "에서",
+      "english": "From/at (origin/location particle)",
+      "romanization": "Eseo",
+      "pos": "particle",
+      "category": "grammar",
+      "example": "미국에서 왔어요 (I came from the USA)",
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 114,
+      "korean": "오고",
+      "english": "Come and... (connective form)",
+      "romanization": "Ogo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 115,
+      "korean": "오다",
+      "english": "To come (dictionary form)",
+      "romanization": "Oda",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "어디에서 왔어요? (Where did you come from?)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 116,
+      "korean": "오지만",
+      "english": "Come but... (contrastive form)",
+      "romanization": "Ojiman",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 117,
+      "korean": "와요",
+      "english": "Come / Coming (polite form, irregular: 오+아요=와요)",
+      "romanization": "Wayo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "어디에서 와요? (Where do you come from?)",
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 118,
+      "korean": "왔어요",
+      "english": "Came (past tense of 오다)",
+      "romanization": "Wasseoyo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "미국에서 왔어요 (I came from the USA)",
+      "lessons": [
+        6,
+        8,
+        16
+      ]
+    },
+    {
+      "id": 119,
+      "korean": "우유",
+      "english": "Milk",
+      "romanization": "Uyu",
+      "pos": "noun",
+      "category": "food",
+      "example": "우유 마셨어요 (I drank milk)",
+      "lessons": [
+        6,
+        8,
+        13
+      ]
+    },
+    {
+      "id": 120,
+      "korean": "친구",
+      "english": "Friend",
+      "romanization": "Chingu",
+      "pos": "noun",
+      "category": "people",
+      "example": "친구 집 (friend's house)",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 121,
+      "korean": "갔어요",
+      "english": "Went (polite past)",
+      "romanization": "ga-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "교회에 갔어요 (I went to church)",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 122,
+      "korean": "교회",
+      "english": "Church",
+      "romanization": "gyo-hwe",
+      "pos": "noun",
+      "category": "places",
+      "example": "교회에 가고 싶어요 (I want to go to church)",
+      "lessons": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": 123,
+      "korean": "마셔요",
+      "english": "Drink (polite present)",
+      "romanization": "ma-syeo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "뭐 마셨어요? (What did you drink?)",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 124,
+      "korean": "마셨어요",
+      "english": "Drank (polite past)",
+      "romanization": "ma-syeo-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "우유 마셨어요 (I drank milk)",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 125,
+      "korean": "먹었어요",
+      "english": "Ate (polite past)",
+      "romanization": "meo-geo-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "고구마 먹었어요 (I ate sweet potato)",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 126,
+      "korean": "보다",
+      "english": "to watch / to see",
+      "romanization": "bo-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "영화 봤어요 (I watched a movie)",
+      "lessons": [
+        8,
+        13,
+        16
+      ]
+    },
+    {
+      "id": 127,
+      "korean": "봐요",
+      "english": "See/watch (polite present)",
+      "romanization": "bwa-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "봐요 → 봤어요",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 128,
+      "korean": "봤어요",
+      "english": "Saw/watched (polite past)",
+      "romanization": "bwa-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "영화 봤어요 (I watched a movie)",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 129,
+      "korean": "쌍시옷",
+      "english": "Double s consonant (ㅆ)",
+      "romanization": "ssang-si-ot",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "Past tense marker added to verb stem",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 130,
+      "korean": "영화",
+      "english": "Movie",
+      "romanization": "yeong-hwa",
+      "pos": "noun",
+      "category": "activities",
+      "example": "영화 봤어요 (I watched a movie)",
+      "lessons": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": 131,
+      "korean": "쿠키",
+      "english": "Cookie",
+      "romanization": "ku-ki",
+      "pos": "noun",
+      "category": "food",
+      "example": "쿠키 먹고 싶어요 (I want to eat a cookie)",
+      "lessons": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": 132,
+      "korean": "는",
+      "english": "Subject/topic marker particle",
+      "romanization": "neun",
+      "pos": "particle",
+      "category": "grammar",
+      "example": "저는 피자를 먹어요",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 133,
+      "korean": "를",
+      "english": "Object marker particle",
+      "romanization": "reul",
+      "pos": "particle",
+      "category": "grammar",
+      "example": "피자를 먹어요 (eat pizza)",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 134,
+      "korean": "병원",
+      "english": "Hospital",
+      "romanization": "byeong-won",
+      "pos": "noun",
+      "category": "places",
+      "example": "병원에 갔어요 (I went to the hospital)",
+      "lessons": [
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "id": 135,
+      "korean": "살다",
+      "english": "To live",
+      "romanization": "sal-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Durham에 살아요 (I live in Durham)",
+      "lessons": [
+        9,
+        16
+      ]
+    },
+    {
+      "id": 136,
+      "korean": "살아요",
+      "english": "Live (polite present)",
+      "romanization": "sa-ra-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "지금은 Durham에 살아요 (Now I live in Durham)",
+      "lessons": [
+        9,
+        13,
+        16
+      ]
+    },
+    {
+      "id": 137,
+      "korean": "살았어요",
+      "english": "Lived (polite past)",
+      "romanization": "sa-ra-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 Chapel Hill에 살았어요 (I lived in Chapel Hill)",
+      "lessons": [
+        9,
+        16
+      ]
+    },
+    {
+      "id": 138,
+      "korean": "예요",
+      "english": "Is/am (after vowel)",
+      "romanization": "ye-yo",
+      "pos": "verb",
+      "category": "expressions",
+      "example": "Chasity예요 (I am Chasity)",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 139,
+      "korean": "이에요",
+      "english": "Is/am (after consonant)",
+      "romanization": "i-e-yo",
+      "pos": "verb",
+      "category": "expressions",
+      "example": "Jack이에요 (I am Jack)",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 140,
+      "korean": "일하다",
+      "english": "To work",
+      "romanization": "il-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "병원에서 일해요 (I work at a hospital)",
+      "lessons": [
+        9,
+        10,
+        15
+      ]
+    },
+    {
+      "id": 141,
+      "korean": "일해요",
+      "english": "Work (polite present)",
+      "romanization": "il-hae-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "병원에서 일해요 (I work at the hospital)",
+      "lessons": [
+        9,
+        16
+      ]
+    },
+    {
+      "id": 142,
+      "korean": "저",
+      "english": "I (humble/formal)",
+      "romanization": "jeo",
+      "pos": "pronoun",
+      "category": "people",
+      "example": "저는 Durham에서 왔어요 (I came from Durham)",
+      "lessons": [
+        9,
+        15
+      ]
+    },
+    {
+      "id": 143,
+      "korean": "저는",
+      "english": "I (with subject particle)",
+      "romanization": "jeo-neun",
+      "pos": "phrase",
+      "category": "grammar",
+      "example": "저는 피자를 먹어요 (I eat pizza)",
+      "lessons": [
+        9,
+        11
+      ]
+    },
+    {
+      "id": 144,
+      "korean": "지금",
+      "english": "Now",
+      "romanization": "ji-geum",
+      "pos": "adverb",
+      "category": "time",
+      "example": "지금은 Durham에 살아요 (Now I live in Durham)",
+      "lessons": [
+        9,
+        11
+      ]
+    },
+    {
+      "id": 145,
+      "korean": "지금은",
+      "english": "Now (emphasized with topic particle)",
+      "romanization": "ji-geum-eun",
+      "pos": "phrase",
+      "category": "time",
+      "example": "지금은 Durham에 살아요",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 146,
+      "korean": "피자",
+      "english": "Pizza",
+      "romanization": "pi-ja",
+      "pos": "noun",
+      "category": "food",
+      "example": "피자를 먹어요 (I eat pizza)",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 147,
+      "korean": "공부하다",
+      "english": "To study",
+      "romanization": "gong-bu-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "영어를 공부해요 (I study English)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 148,
+      "korean": "공부해요",
+      "english": "Study (polite present)",
+      "romanization": "gong-bu-hae-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 영어를 공부해요 (I study English)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 149,
+      "korean": "공부했어요",
+      "english": "studied (past tense)",
+      "romanization": "Gongbuhaeteoyo",
+      "pos": "verb",
+      "category": "grammar",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 150,
+      "korean": "과학",
+      "english": "Science",
+      "romanization": "gwa-hak",
+      "pos": "noun",
+      "category": "academic",
+      "example": "Student's major field",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 151,
+      "korean": "관심",
+      "english": "Interest/concern",
+      "romanization": "gwan-sim",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "여행에 관심 있어요 (I am interested in travel)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 152,
+      "korean": "다녀요",
+      "english": "Attend/go regularly (polite present)",
+      "romanization": "da-nyeo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 회사에 다녀요 (I go to work)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 153,
+      "korean": "다녔어요",
+      "english": "attended, commuted (past tense)",
+      "romanization": "Danyeoteoyo",
+      "pos": "verb",
+      "category": "grammar",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 154,
+      "korean": "다니다",
+      "english": "To attend/go regularly",
+      "romanization": "da-ni-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "회사에 다녀요 (I go to work regularly)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 155,
+      "korean": "도서관",
+      "english": "library",
+      "romanization": "Doseogwan",
+      "pos": "noun",
+      "category": "places",
+      "example": "도서관에서 공부해요.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 156,
+      "korean": "듣다",
+      "english": "to listen, to hear",
+      "romanization": "deut-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "음악을 들어요 (I listen to music)",
+      "lessons": [
+        10,
+        13
+      ]
+    },
+    {
+      "id": 157,
+      "korean": "들어요",
+      "english": "Listen (polite present)",
+      "romanization": "deu-reo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 음악을 들어요 (I listen to music)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 158,
+      "korean": "들었어요",
+      "english": "listened, heard (past tense)",
+      "romanization": "Deuleoteoyo",
+      "pos": "verb",
+      "category": "grammar",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 159,
+      "korean": "따뜻한",
+      "english": "warm (personality)",
+      "romanization": "Ttatteuthan",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "따뜻한 성격이에요.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 160,
+      "korean": "말하다",
+      "english": "to speak / to say",
+      "romanization": "mal-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "영어로 말해요 (I speak in English)",
+      "lessons": [
+        10,
+        13
+      ]
+    },
+    {
+      "id": 161,
+      "korean": "말해요",
+      "english": "Speak (polite present)",
+      "romanization": "mal-hae-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 영어로 말해요 (I speak in English)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 162,
+      "korean": "말했어요",
+      "english": "spoke, said (past tense)",
+      "romanization": "Malhaeteoyo",
+      "pos": "verb",
+      "category": "grammar",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 163,
+      "korean": "받다",
+      "english": "To receive",
+      "romanization": "bat-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "뭐 받고 싶어요? (What do you want to receive?)",
+      "lessons": [
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": 164,
+      "korean": "배우다",
+      "english": "To learn",
+      "romanization": "bae-u-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "한국어를 배워요 (I learn Korean)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 165,
+      "korean": "배워요",
+      "english": "Learn (polite present)",
+      "romanization": "bae-wo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 지금 한국어를 배워요 (I am learning Korean now)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 166,
+      "korean": "배웠어요",
+      "english": "learned (past tense)",
+      "romanization": "Baewoteoyo",
+      "pos": "verb",
+      "category": "grammar",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 167,
+      "korean": "성격",
+      "english": "personality / character",
+      "romanization": "seong-gyeok",
+      "pos": "noun",
+      "category": "people",
+      "example": "따뜻한 성격 (warm personality)",
+      "lessons": [
+        10,
+        14
+      ]
+    },
+    {
+      "id": 168,
+      "korean": "안",
+      "english": "not (negation prefix)",
+      "romanization": "an",
+      "pos": "adverb",
+      "category": "grammar",
+      "example": "안 먹었어요 (Didn't eat)",
+      "lessons": [
+        10,
+        11,
+        14
+      ]
+    },
+    {
+      "id": 169,
+      "korean": "여행",
+      "english": "travel / trip",
+      "romanization": "yeo-haeng",
+      "pos": "noun",
+      "category": "activities",
+      "example": "여행에 관심 있어요 (I am interested in travel)",
+      "lessons": [
+        10,
+        16
+      ]
+    },
+    {
+      "id": 170,
+      "korean": "영어",
+      "english": "English (language)",
+      "romanization": "yeong-eo",
+      "pos": "noun",
+      "category": "people",
+      "example": "영어를 공부해요 (I study English)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 171,
+      "korean": "요즘",
+      "english": "these days / lately",
+      "romanization": "yo-jeum",
+      "pos": "adverb",
+      "category": "time",
+      "example": "요즘 뭐 좋아해요? (What do you like these days?)",
+      "lessons": [
+        10,
+        15
+      ]
+    },
+    {
+      "id": 172,
+      "korean": "음악",
+      "english": "Music",
+      "romanization": "eum-ak",
+      "pos": "noun",
+      "category": "activities",
+      "example": "음악을 들어요 (I listen to music)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 173,
+      "korean": "전공",
+      "english": "Major (academic)",
+      "romanization": "jeon-gong",
+      "pos": "noun",
+      "category": "academic",
+      "example": "전공 했어요 (majored in)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 174,
+      "korean": "조깅",
+      "english": "Jogging",
+      "romanization": "jo-ging",
+      "pos": "noun",
+      "category": "activities",
+      "example": "조깅을 좋아해요 (I like jogging)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 175,
+      "korean": "좋아하다",
+      "english": "To like",
+      "romanization": "jo-a-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "조깅을 좋아해요 (I like jogging)",
+      "lessons": [
+        10,
+        15
+      ]
+    },
+    {
+      "id": 176,
+      "korean": "차가운 / 시원한",
+      "english": "cold/cool (personality, adj.)",
+      "romanization": "Chagaun / siwonhan",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 177,
+      "korean": "친절한",
+      "english": "kind, friendly",
+      "romanization": "Chinjeolhan",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 178,
+      "korean": "학교",
+      "english": "school",
+      "romanization": "Hakgyo",
+      "pos": "noun",
+      "category": "places",
+      "example": "학교에 다니고 있어요.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 179,
+      "korean": "한국어",
+      "english": "Korean (language)",
+      "romanization": "han-guk-eo",
+      "pos": "noun",
+      "category": "people",
+      "example": "한국어로 말해요 (I speak in Korean)",
+      "lessons": [
+        10,
+        13
+      ]
+    },
+    {
+      "id": 180,
+      "korean": "활발해요",
+      "english": "outgoing, lively",
+      "romanization": "Hwalbalhaeyo",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "저는 성격이 활발해요.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 181,
+      "korean": "회사",
+      "english": "Company/workplace",
+      "romanization": "hoe-sa",
+      "pos": "noun",
+      "category": "places",
+      "example": "회사에 다녀요 (I go to work)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 182,
+      "korean": "기다려요",
+      "english": "Wait (polite present)",
+      "romanization": "gi-da-ryeo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Note card 기다려요 (I am waiting for note cards)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 183,
+      "korean": "기다렸어요",
+      "english": "Waited (polite past)",
+      "romanization": "gi-da-ryeo-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Past tense of 기다리다",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 184,
+      "korean": "기다리다",
+      "english": "To wait",
+      "romanization": "gi-da-ri-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Note card 기다려요 (I am waiting for note cards)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 185,
+      "korean": "내일",
+      "english": "Tomorrow",
+      "romanization": "nae-il",
+      "pos": "adverb",
+      "category": "time",
+      "example": "New vocabulary introduced in lesson 11",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 186,
+      "korean": "모르다",
+      "english": "To not know",
+      "romanization": "mo-reu-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "몰라요 (I don't know)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 187,
+      "korean": "몰라요",
+      "english": "Don't know (polite present)",
+      "romanization": "mol-la-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "몰라요 (I don't know)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 188,
+      "korean": "몰랐어요",
+      "english": "Didn't know (polite past)",
+      "romanization": "mol-la-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Past tense of 모르다",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 189,
+      "korean": "받아요",
+      "english": "Receive (polite present)",
+      "romanization": "ba-da-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "어제 뭐 받았어요? (What did you receive yesterday?)",
+      "lessons": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": 190,
+      "korean": "받았어요",
+      "english": "Received (polite past)",
+      "romanization": "ba-da-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Email 받았어요 (I received an email)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 191,
+      "korean": "부산",
+      "english": "Busan (city in Korea)",
+      "romanization": "bu-san",
+      "pos": "noun",
+      "category": "places",
+      "example": "부산에 가고 싶어요 (I want to go to Busan)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 192,
+      "korean": "사다",
+      "english": "To buy",
+      "romanization": "sa-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Plane ticket 사고 싶어요 (I want to buy a plane ticket)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 193,
+      "korean": "사요",
+      "english": "Buy (polite present)",
+      "romanization": "sa-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "뭐 사고 싶어요? (What do you want to buy?)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 194,
+      "korean": "샀어요",
+      "english": "Bought (polite past)",
+      "romanization": "sa-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Past tense of 사다",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 195,
+      "korean": "알다",
+      "english": "To know",
+      "romanization": "al-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "지금 알아요 (I know now)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 196,
+      "korean": "알아요",
+      "english": "Know (polite present)",
+      "romanization": "a-ra-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "오늘 알아요? (Do you know 'today'?)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 197,
+      "korean": "알았어요",
+      "english": "Knew/understood (polite past)",
+      "romanization": "a-ra-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "Past tense of 알다",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 198,
+      "korean": "어제",
+      "english": "Yesterday",
+      "romanization": "eo-je",
+      "pos": "adverb",
+      "category": "time",
+      "example": "어제 뭐 마셨어요? (What did you drink yesterday?)",
+      "lessons": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": 199,
+      "korean": "예약하다",
+      "english": "To reserve/book",
+      "romanization": "ye-yak-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "안 예약했어요 (Didn't reserve)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 200,
+      "korean": "오늘",
+      "english": "Today",
+      "romanization": "o-neul",
+      "pos": "adverb",
+      "category": "time",
+      "example": "오늘 뭐 봤어요? (What did you watch today?)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 201,
+      "korean": "읽다",
+      "english": "To read",
+      "romanization": "ik-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "뭐 읽어요? (What do you read?)",
+      "lessons": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": 202,
+      "korean": "읽었어요",
+      "english": "Read [past] (polite past)",
+      "romanization": "il-geo-sseo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "어제 책 읽었어요? (Did you read a book yesterday?)",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 203,
+      "korean": "책",
+      "english": "Book",
+      "romanization": "chaek",
+      "pos": "noun",
+      "category": "objects",
+      "example": "어제 책 읽었어요? (Did you read a book yesterday?)",
+      "lessons": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": 204,
+      "korean": "가라앉다",
+      "english": "To sink",
+      "romanization": "ga-ra-an-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "기분이 가라앉아요 (mood is sinking)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 205,
+      "korean": "개",
+      "english": "Dog / emphasis particle (really, very - slang)",
+      "romanization": "gae",
+      "pos": "noun",
+      "category": "slang",
+      "example": "개아파 (really sick), 개배고파 (really hungry)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 206,
+      "korean": "개먹고 싶어",
+      "english": "Really want to eat (slang)",
+      "romanization": "gae-meok-go si-peo",
+      "pos": "phrase",
+      "category": "slang",
+      "example": "Casual slang using 개 as intensifier",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 207,
+      "korean": "개배고파",
+      "english": "Really hungry (slang)",
+      "romanization": "gae-bae-go-pa",
+      "pos": "phrase",
+      "category": "slang",
+      "example": "Casual slang using 개 as intensifier",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 208,
+      "korean": "개아파",
+      "english": "Really sick (slang)",
+      "romanization": "gae-a-pa",
+      "pos": "phrase",
+      "category": "slang",
+      "example": "Casual slang using 개 as intensifier",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 209,
+      "korean": "구멍",
+      "english": "Hole",
+      "romanization": "gu-meong",
+      "pos": "noun",
+      "category": "objects",
+      "example": "하늘에 구멍이 뚫렸다 (a hole poked in the sky)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 210,
+      "korean": "기분",
+      "english": "Mood/feeling",
+      "romanization": "gi-bun",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "기분이 저기압이에요 (mood is low pressure)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 211,
+      "korean": "기분이 가라앉아요",
+      "english": "Mood is sinking (feeling down)",
+      "romanization": "gi-bun-i ga-ra-an-ja-yo",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "All generations use this expression",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 212,
+      "korean": "기분이 저기압이에요",
+      "english": "Mood is in low pressure (feeling blue)",
+      "romanization": "gi-bun-i jeo-gi-ap-i-e-yo",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "All generations use this expression",
+      "lessons": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": 213,
+      "korean": "껌",
+      "english": "Gum (chewing gum)",
+      "romanization": "kkeom",
+      "pos": "noun",
+      "category": "food",
+      "example": "껌이야 (it's gum = piece of cake)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 214,
+      "korean": "껌이야",
+      "english": "It's gum (piece of cake - slang)",
+      "romanization": "kkeom-i-ya",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Young generation slang for 'easy task'",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 215,
+      "korean": "누워서 떡 먹기",
+      "english": "Eating rice cake while lying down (piece of cake)",
+      "romanization": "nu-wo-seo tteok meok-gi",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Older generation idiom for 'easy task'",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 216,
+      "korean": "떡",
+      "english": "Rice cake",
+      "romanization": "tteok",
+      "pos": "noun",
+      "category": "food",
+      "example": "누워서 떡 먹기 (eating rice cake lying down)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 217,
+      "korean": "뚫리다",
+      "english": "To be poked/pierced",
+      "romanization": "ttul-li-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "구멍이 뚫렸다 (a hole was pierced)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 218,
+      "korean": "먹",
+      "english": "Oriental black ink",
+      "romanization": "meok",
+      "pos": "noun",
+      "category": "objects",
+      "example": "Traditional calligraphy ink, used in idiom 먹칠하다",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 219,
+      "korean": "물 흐르듯이",
+      "english": "Like flowing water (go with the flow)",
+      "romanization": "mul heu-reu-deu-si",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Describes easygoing personality or smooth process",
+      "lessons": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": 220,
+      "korean": "비",
+      "english": "Rain",
+      "romanization": "bi",
+      "pos": "noun",
+      "category": "weather",
+      "example": "전국에 비가 와요 (It rains nationwide)",
+      "lessons": [
+        12,
+        16
+      ]
+    },
+    {
+      "id": 221,
+      "korean": "비가 내려요",
+      "english": "Rain goes down (it rains)",
+      "romanization": "bi-ga nae-ryeo-yo",
+      "pos": "phrase",
+      "category": "weather",
+      "example": "Normal rain expression",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 222,
+      "korean": "비가 옆으로 가요",
+      "english": "Rain goes sideways (windy rain)",
+      "romanization": "bi-ga yeop-eu-ro ga-yo",
+      "pos": "phrase",
+      "category": "weather",
+      "example": "Describes rain blown sideways by wind",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 223,
+      "korean": "식다",
+      "english": "To cool down",
+      "romanization": "sik-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "식은 (cooled, adjective form) vs 차가운 (cold)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 224,
+      "korean": "식은",
+      "english": "Cooled (adjective form)",
+      "romanization": "sig-eun",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "식은 죽 (cooled porridge) - different from 차가운 (cold)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 225,
+      "korean": "식은 죽 먹기",
+      "english": "Eating cold porridge (piece of cake)",
+      "romanization": "sig-eun juk meok-gi",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Older generation idiom for 'easy task'",
+      "lessons": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": 226,
+      "korean": "쏟아지다",
+      "english": "To pour down",
+      "romanization": "sso-da-ji-da",
+      "pos": "verb",
+      "category": "weather",
+      "example": "Heavy rain expression",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 227,
+      "korean": "아이",
+      "english": "Child/baby",
+      "romanization": "a-i",
+      "pos": "noun",
+      "category": "people",
+      "example": "우는 아이 젖 준다 (crying baby gets milk)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 228,
+      "korean": "얼굴",
+      "english": "Face",
+      "romanization": "eol-gul",
+      "pos": "noun",
+      "category": "body",
+      "example": "얼굴에 먹칠하다 (paint ink on face)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 229,
+      "korean": "얼굴에 먹칠하다",
+      "english": "Paint black ink on face (setback/embarrassment)",
+      "romanization": "eol-gul-e meok-chil-ha-da",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Equivalent of 'black eye' - formal, older generation usage",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 230,
+      "korean": "우는 아이 젖 준다",
+      "english": "squeaky wheel gets the grease (give milk to crying baby)",
+      "romanization": "u-neun a-i jeot jun-da",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Traditional proverb, often used in gossip",
+      "lessons": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": 231,
+      "korean": "임자",
+      "english": "Right person in position",
+      "romanization": "im-ja",
+      "pos": "noun",
+      "category": "people",
+      "example": "Loudest voice is 임자 (the one who gets their way)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 232,
+      "korean": "저기압",
+      "english": "Low pressure (atmospheric)",
+      "romanization": "jeo-gi-ap",
+      "pos": "noun",
+      "category": "weather",
+      "example": "기분이 저기압이에요 (mood is low pressure)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 233,
+      "korean": "젖",
+      "english": "Breast milk",
+      "romanization": "jeot",
+      "pos": "noun",
+      "category": "food",
+      "example": "우는 아이 젖 준다 (crying baby gets milk)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 234,
+      "korean": "죽",
+      "english": "Porridge",
+      "romanization": "juk",
+      "pos": "noun",
+      "category": "food",
+      "example": "식은 죽 먹기 (eating cold porridge)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 235,
+      "korean": "차가운",
+      "english": "cold (adjective modifier for objects)",
+      "romanization": "cha-ga-un",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "Contrasted with 식은 (cooled down from hot)",
+      "lessons": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": 236,
+      "korean": "하늘",
+      "english": "Sky",
+      "romanization": "ha-neul",
+      "pos": "noun",
+      "category": "nature",
+      "example": "하늘에 구멍이 뚫렸다 (a hole poked in the sky)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 237,
+      "korean": "하늘에 구멍이 뚫렸다",
+      "english": "A hole is poked in the sky (raining cats and dogs)",
+      "romanization": "ha-neul-e gu-meong-i ttul-lyeot-da",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "하늘에 구멍이 뚫렸나? (question form)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 238,
+      "korean": "혀",
+      "english": "Tongue",
+      "romanization": "hyeo",
+      "pos": "noun",
+      "category": "body",
+      "example": "혀가 빠지다 (tongue popped out)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 239,
+      "korean": "혀가 빠지다",
+      "english": "exhausted (idiom: tongue falls out)",
+      "romanization": "hyeo-ga ppa-ji-da",
+      "pos": "phrase",
+      "category": "idioms",
+      "example": "Southeast dialect expression",
+      "lessons": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": 240,
+      "korean": "가르치다",
+      "english": "to teach",
+      "romanization": "Gareuchida",
+      "pos": "verb",
+      "category": "academic",
+      "example": "영어 가르쳐요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 241,
+      "korean": "감천문화마을",
+      "english": "Gamcheon Culture Village",
+      "romanization": "Gamcheonmunhwamaeul",
+      "pos": "noun",
+      "category": "places",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 242,
+      "korean": "고마워요",
+      "english": "thank you (casual polite)",
+      "romanization": "Gomawoyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 243,
+      "korean": "광안리",
+      "english": "Gwangalli Beach",
+      "romanization": "gwang-an-ri",
+      "pos": "noun",
+      "category": "places",
+      "example": "광안리에서 봤어요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 244,
+      "korean": "까페",
+      "english": "cafe (tense consonant spelling)",
+      "romanization": "Kkape",
+      "pos": "noun",
+      "category": "places",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 245,
+      "korean": "깎아주세요",
+      "english": "please give a discount",
+      "romanization": "Kkakajuseyo",
+      "pos": "phrase",
+      "category": "activities",
+      "example": "좀 깎아주세요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 246,
+      "korean": "노래",
+      "english": "song",
+      "romanization": "no-rae",
+      "pos": "noun",
+      "category": "activities",
+      "example": "노래 들어요 (I listen to a song)",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 247,
+      "korean": "다음",
+      "english": "next",
+      "romanization": "da-eum",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 248,
+      "korean": "따뜻해요",
+      "english": "is warm (polite)",
+      "romanization": "Ttatteuthaeyo",
+      "pos": "adjective",
+      "category": "people",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 249,
+      "korean": "만나서 반가워요",
+      "english": "nice to meet you",
+      "romanization": "Mannaseo bangawoyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 250,
+      "korean": "많아요",
+      "english": "there are many / a lot",
+      "romanization": "Manayo",
+      "pos": "adjective",
+      "category": "objects",
+      "example": "네, 많아요!",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 251,
+      "korean": "뭐 드릴까요",
+      "english": "what can I get you?",
+      "romanization": "Mwo deurilkkayo",
+      "pos": "phrase",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 252,
+      "korean": "방사선 종양학",
+      "english": "Radiation Oncology",
+      "romanization": "Bangsaseon jongyanghak",
+      "pos": "noun",
+      "category": "people",
+      "example": "방사선 종양학에서 일해요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 253,
+      "korean": "부산역",
+      "english": "Busan Station",
+      "romanization": "Busanyeok",
+      "pos": "noun",
+      "category": "places",
+      "example": "부산역에서 왔어요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 254,
+      "korean": "빨라요",
+      "english": "is fast (polite)",
+      "romanization": "Ppalrayo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 255,
+      "korean": "사과",
+      "english": "apple",
+      "romanization": "Sagwa",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 256,
+      "korean": "삼만원",
+      "english": "30,000 won",
+      "romanization": "Sammanwon",
+      "pos": "noun",
+      "category": "objects",
+      "example": "삼만원이에요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 257,
+      "korean": "선생님",
+      "english": "teacher",
+      "romanization": "Seonsaengnim",
+      "pos": "noun",
+      "category": "people",
+      "example": "저는 영어 선생님이에요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 258,
+      "korean": "싸요",
+      "english": "is cheap (polite)",
+      "romanization": "Ssayo",
+      "pos": "adjective",
+      "category": "objects",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 259,
+      "korean": "쓰다",
+      "english": "to write",
+      "romanization": "sseu-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 260,
+      "korean": "아이스크림",
+      "english": "ice cream",
+      "romanization": "Aiseukeurim",
+      "pos": "noun",
+      "category": "food",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 261,
+      "korean": "어서 오세요",
+      "english": "welcome (to a shop/restaurant)",
+      "romanization": "Eoseo oseyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "어서 오세요! 뭐 드릴까요?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 262,
+      "korean": "언어",
+      "english": "language",
+      "romanization": "Eoneo",
+      "pos": "noun",
+      "category": "academic",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 263,
+      "korean": "이거 얼마예요",
+      "english": "how much is this?",
+      "romanization": "Igeo eolmayeyo",
+      "pos": "phrase",
+      "category": "activities",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 264,
+      "korean": "자갈치시장",
+      "english": "Jagalchi Market (seafood market)",
+      "romanization": "Jagalchisijang",
+      "pos": "noun",
+      "category": "places",
+      "example": "자갈치시장에서 먹었어요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 265,
+      "korean": "잔",
+      "english": "glass/cup (counter)",
+      "romanization": "jan",
+      "pos": "noun",
+      "category": "objects",
+      "example": "물 한 잔 주세요",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 266,
+      "korean": "잘 지냈어요",
+      "english": "have you been well?",
+      "romanization": "Jal jinaeteoyo",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 267,
+      "korean": "짜요",
+      "english": "is salty (polite)",
+      "romanization": "Jjayo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 268,
+      "korean": "찍다",
+      "english": "to take (a photo)",
+      "romanization": "jjik-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "사진 찍어도 될까요?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 269,
+      "korean": "학생",
+      "english": "student",
+      "romanization": "Haksaeng",
+      "pos": "noun",
+      "category": "people",
+      "example": "",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 270,
+      "korean": "해운대",
+      "english": "Haeundae Beach",
+      "romanization": "hae-un-dae",
+      "pos": "noun",
+      "category": "places",
+      "example": "해운대에 갈 거예요.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 271,
+      "korean": "회",
+      "english": "raw fish (hoe)",
+      "romanization": "hoe",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "회 있어요?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 272,
+      "korean": "겨울",
+      "english": "winter",
+      "romanization": "gyeo-ul",
+      "pos": "noun",
+      "category": "weather",
+      "example": "추운 겨울 (cold winter)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 273,
+      "korean": "계산",
+      "english": "calculation / payment",
+      "romanization": "gye-san",
+      "pos": "noun",
+      "category": "food",
+      "example": "카드로 계산할게요 (I'll pay by card)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 274,
+      "korean": "날씨",
+      "english": "weather",
+      "romanization": "nal-ssi",
+      "pos": "noun",
+      "category": "weather",
+      "example": "날씨가 더워요 (Weather is hot)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 275,
+      "korean": "더",
+      "english": "more",
+      "romanization": "Deo",
+      "pos": "adverb",
+      "category": "expressions",
+      "example": "커피보다 차가 더 좋아요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 276,
+      "korean": "더운",
+      "english": "hot (adjective modifier for weather)",
+      "romanization": "deo-un",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "더운 여름 (hot summer)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 277,
+      "korean": "더워요",
+      "english": "is hot (weather) - polite form",
+      "romanization": "deo-wo-yo",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "날씨가 더워요 (Weather is hot)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 278,
+      "korean": "덥다",
+      "english": "hot (weather) - dictionary form",
+      "romanization": "deop-da",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "여름에 부산은 더워요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 279,
+      "korean": "도시",
+      "english": "city",
+      "romanization": "do-shi",
+      "pos": "noun",
+      "category": "places",
+      "example": "도시가 추워요 (City is cold)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 280,
+      "korean": "따뜻하다",
+      "english": "warm (adjective, dictionary form)",
+      "romanization": "tta-tteut-ha-da",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "따뜻한 사람",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 281,
+      "korean": "따뜻한 사람",
+      "english": "warm person (kind, helpful)",
+      "romanization": "tta-tteut-han sa-ram",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "우리 엄마는 따뜻한 사람이에요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 282,
+      "korean": "따뜻한 성격",
+      "english": "warm personality (kind/generous)",
+      "romanization": "tta-tteut-han seong-gyeok",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 283,
+      "korean": "뜨거운",
+      "english": "hot (adjective modifier for objects)",
+      "romanization": "tteu-geo-un",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "뜨거운 숲 (hot soup)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 284,
+      "korean": "뜨거운 사람",
+      "english": "hot person (passionate leader)",
+      "romanization": "tteu-geo-un sa-ram",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 285,
+      "korean": "뜨거운 성격",
+      "english": "hot personality (passionate/impulsive)",
+      "romanization": "tteu-geo-un seong-gyeok",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 286,
+      "korean": "뜨거워요",
+      "english": "is hot (objects) - polite form",
+      "romanization": "tteu-geo-wo-yo",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "차가 뜨거워요 (Tea is hot)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 287,
+      "korean": "뜨겁다",
+      "english": "hot (objects) - dictionary form",
+      "romanization": "tteu-geop-da",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "국이 너무 뜨거워요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 288,
+      "korean": "방",
+      "english": "room",
+      "romanization": "bang",
+      "pos": "noun",
+      "category": "places",
+      "example": "방이 추워요 (The room is cold)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 289,
+      "korean": "사람",
+      "english": "person / people",
+      "romanization": "sa-ram",
+      "pos": "noun",
+      "category": "people",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 290,
+      "korean": "숲",
+      "english": "soup (note: likely meant 국/수프)",
+      "romanization": "sup",
+      "pos": "noun",
+      "category": "food",
+      "example": "뜨거운 숲 (hot soup)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 291,
+      "korean": "시원시원한",
+      "english": "refreshingly direct/cool personality",
+      "romanization": "Siwonsiwonhan",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "시원시원한 성격",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 292,
+      "korean": "시원하다",
+      "english": "cool / refreshing (adjective, dictionary form)",
+      "romanization": "shi-won-ha-da",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 293,
+      "korean": "시원한 사람",
+      "english": "cool person (easygoing)",
+      "romanization": "shi-won-han sa-ram",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 294,
+      "korean": "시원한 성격",
+      "english": "cool personality (no grudges/straightforward)",
+      "romanization": "shi-won-han seong-gyeok",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 295,
+      "korean": "심심해요",
+      "english": "bored (nothing to do)",
+      "romanization": "shim-shim-hae-yo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 296,
+      "korean": "쌀쌀맞은",
+      "english": "cold/unfriendly (personality)",
+      "romanization": "Ssalssalmateun",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "쌀쌀맞은 사람",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 297,
+      "korean": "여름",
+      "english": "summer",
+      "romanization": "yeo-reum",
+      "pos": "noun",
+      "category": "weather",
+      "example": "더운 여름 (hot summer)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 298,
+      "korean": "열정적인",
+      "english": "passionate",
+      "romanization": "Yeoljeongjeokin",
+      "pos": "adjective",
+      "category": "personality",
+      "example": "열정적인 사람",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 299,
+      "korean": "지루해요",
+      "english": "bored (not interesting)",
+      "romanization": "ji-ru-hae-yo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "영화 지루해요 (The movie is boring)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 300,
+      "korean": "차가운 사람",
+      "english": "cold person (unemotional, efficient)",
+      "romanization": "cha-ga-un sa-ram",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "그 사람은 좀 차가운 사람이에요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 301,
+      "korean": "차가운 성격",
+      "english": "cold personality (unemotional/distant)",
+      "romanization": "cha-ga-un seong-gyeok",
+      "pos": "phrase",
+      "category": "personality",
+      "example": "",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 302,
+      "korean": "차가워요",
+      "english": "is cold (objects) - polite form",
+      "romanization": "cha-ga-wo-yo",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "커피가 차가워요 (Coffee is cold)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 303,
+      "korean": "차갑다",
+      "english": "cold (objects) - dictionary form",
+      "romanization": "cha-gap-da",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "아이스 아메리카노가 차가워요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 304,
+      "korean": "추운",
+      "english": "cold (adjective modifier for weather)",
+      "romanization": "chu-un",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "추운 겨울 (cold winter)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 305,
+      "korean": "추워요",
+      "english": "is cold (weather) - polite form",
+      "romanization": "chu-wo-yo",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "도시가 추워요 (City is cold)",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 306,
+      "korean": "춥다",
+      "english": "cold (weather) - dictionary form",
+      "romanization": "chup-da",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "겨울에 한국은 추워요.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 307,
+      "korean": "가게",
+      "english": "store / shop",
+      "romanization": "ga-ge",
+      "pos": "noun",
+      "category": "places",
+      "example": "가게에 갔어요 (I went to the store)",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 308,
+      "korean": "갱신된",
+      "english": "renewed (past participle)",
+      "romanization": "Gaengsindoen",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "갱신된 여권과 무제한 여행을 받고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 309,
+      "korean": "갱신하다",
+      "english": "to renew",
+      "romanization": "Gaengsinhada",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "여권을 갱신해요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 310,
+      "korean": "경험",
+      "english": "experience",
+      "romanization": "Gyeongheom",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "선물보다 경험을 더 좋아하는 사람이에요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 311,
+      "korean": "공유하다",
+      "english": "to share",
+      "romanization": "gong-yu-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "관점을 공유해 주셔서 감사합니다",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 312,
+      "korean": "관리자",
+      "english": "steward, manager",
+      "romanization": "Gwanrija",
+      "pos": "noun",
+      "category": "people",
+      "example": "좋은 관리자가 되고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 313,
+      "korean": "관리하다",
+      "english": "to manage, to steward",
+      "romanization": "Gwanrihada",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "시간과 재능을 잘 관리하고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 314,
+      "korean": "관용",
+      "english": "tolerance",
+      "romanization": "gwan-yong",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 315,
+      "korean": "관점",
+      "english": "perspective / point of view",
+      "romanization": "gwan-jeom",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "관점을 공유해 주셔서 감사합니다",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 316,
+      "korean": "그레이비",
+      "english": "gravy",
+      "romanization": "Geureibi",
+      "pos": "noun",
+      "category": "food",
+      "example": "비스킷과 그레이비를 먹었어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 317,
+      "korean": "노력",
+      "english": "effort",
+      "romanization": "Noryeok",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "매일 같은 노력을 하는 거예요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 318,
+      "korean": "똑똑한",
+      "english": "smart, clever",
+      "romanization": "Ttokttokhan",
+      "pos": "adjective",
+      "category": "people",
+      "example": "한국 사람들은 이런 사람을 '똑똑한 사람'이라고 해요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 319,
+      "korean": "맛있어요",
+      "english": "it's delicious",
+      "romanization": "ma-shi-sseo-yo",
+      "pos": "adjective",
+      "category": "food",
+      "example": "네, 맛있어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 320,
+      "korean": "메시지",
+      "english": "message",
+      "romanization": "Mesiji",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "메시지를 받았어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 321,
+      "korean": "목표",
+      "english": "goal",
+      "romanization": "Mokpyo",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "자기 인생의 목표를 아는 사람.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 322,
+      "korean": "무제한",
+      "english": "unlimited",
+      "romanization": "Mujehan",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "무제한 여행을 받고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 323,
+      "korean": "바빠요",
+      "english": "is busy",
+      "romanization": "Bappayo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "요즘 바빠요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 324,
+      "korean": "비스킷",
+      "english": "biscuit",
+      "romanization": "Biseukit",
+      "pos": "noun",
+      "category": "food",
+      "example": "비스킷과 그레이비를 먹었어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 325,
+      "korean": "생활 목표",
+      "english": "life goals",
+      "romanization": "Saenghwal mokpyo",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "저는 생활 목표가 있어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 326,
+      "korean": "선물",
+      "english": "gift, present",
+      "romanization": "Seonmul",
+      "pos": "noun",
+      "category": "objects",
+      "example": "선물을 받았어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 327,
+      "korean": "쇼핑하다",
+      "english": "to shop",
+      "romanization": "syo-ping-ha-da",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "쇼핑했어요 (I shopped)",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 328,
+      "korean": "쉬다",
+      "english": "to rest",
+      "romanization": "Swida",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "쉬고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 329,
+      "korean": "쉬어요",
+      "english": "rest (polite present)",
+      "romanization": "Swieoyo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "카페에서 쉬어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 330,
+      "korean": "습관",
+      "english": "habit",
+      "romanization": "Seupgwan",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "매일 좋은 습관을 만드는 것.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 331,
+      "korean": "시간",
+      "english": "time",
+      "romanization": "Sigan",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "시간을 잘 쓰고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 332,
+      "korean": "식당",
+      "english": "restaurant",
+      "romanization": "Sikdang",
+      "pos": "noun",
+      "category": "places",
+      "example": "식당에 갔어요. 먹었어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 333,
+      "korean": "아무것도",
+      "english": "anything, nothing (with negation)",
+      "romanization": "Amugeotdo",
+      "pos": "pronoun",
+      "category": "grammar",
+      "example": "아무것도 안 받았어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 334,
+      "korean": "여권",
+      "english": "passport",
+      "romanization": "Yeogwon",
+      "pos": "noun",
+      "category": "travel",
+      "example": "여권을 갱신하고 싶어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 335,
+      "korean": "운동",
+      "english": "exercise",
+      "romanization": "Undong",
+      "pos": "noun",
+      "category": "activities",
+      "example": "매일 운동하는 것.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 336,
+      "korean": "인내",
+      "english": "patience",
+      "romanization": "in-nae",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 337,
+      "korean": "인내심",
+      "english": "endurance / perseverance",
+      "romanization": "in-nae-shim",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 338,
+      "korean": "인생",
+      "english": "life",
+      "romanization": "Insaeng",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "자기 인생의 목표를 아는 사람.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 339,
+      "korean": "일관성",
+      "english": "consistency",
+      "romanization": "Ilgwanseong",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "일관성이 중요해요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 340,
+      "korean": "일했어요",
+      "english": "worked (past tense)",
+      "romanization": "il-haess-eo-yo",
+      "pos": "verb",
+      "category": "verbs",
+      "example": "저는 일했어요",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 341,
+      "korean": "재능",
+      "english": "talent",
+      "romanization": "Jaeneung",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "재능을 잘 관리해요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 342,
+      "korean": "전화",
+      "english": "phone call",
+      "romanization": "Jeonhwa",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "전화를 받았어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 343,
+      "korean": "정보",
+      "english": "information",
+      "romanization": "jeong-bo",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "정보를 공유해 주셔서 감사합니다",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 344,
+      "korean": "중요해요",
+      "english": "is important",
+      "romanization": "Jungyohaeyo",
+      "pos": "adjective",
+      "category": "expressions",
+      "example": "일관성이 중요해요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 345,
+      "korean": "초대",
+      "english": "invitation",
+      "romanization": "Chodae",
+      "pos": "noun",
+      "category": "expressions",
+      "example": "초대를 받았어요.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 346,
+      "korean": "땀",
+      "english": "sweat",
+      "romanization": "ttam",
+      "pos": "noun",
+      "category": "body",
+      "example": "",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 347,
+      "korean": "장마",
+      "english": "rainy season",
+      "romanization": "jang-ma",
+      "pos": "noun",
+      "category": "weather",
+      "example": "",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 348,
+      "korean": "전국",
+      "english": "nationwide / across the whole country",
+      "romanization": "jeon-guk",
+      "pos": "noun",
+      "category": "places",
+      "example": "전국에 비가 와요 (It rains nationwide)",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 349,
+      "korean": "좋은 아침",
+      "english": "good morning",
+      "romanization": "jo-eun a-chim",
+      "pos": "phrase",
+      "category": "greetings",
+      "example": "",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 350,
+      "korean": "찬",
+      "english": "cold (shortened form of 차가운)",
+      "romanization": "chan",
+      "pos": "adjective",
+      "category": "temperature",
+      "example": "찬 밥 (cold rice), 찬 물 (cold water)",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 351,
+      "korean": "한국",
+      "english": "Korea",
+      "romanization": "han-guk",
+      "pos": "noun",
+      "category": "places",
+      "example": "한국 추워요 (Korea is cold)",
+      "lessons": [
+        16
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": 1,
+      "pattern": "H-Drop Rule: 하 → 아 (in natural speech)",
+      "meaning": "Drop the H sound in 하 for more natural, native-sounding speech",
+      "examples": [
+        {
+          "korean": "수고하세요 → 수고아세요",
+          "english": "Keep working hard (natural pronunciation)"
+        }
+      ],
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "pattern": "[Object] + [Quantity] + 주세요",
+      "meaning": "Polite request pattern: 'Please give me [quantity] of [object]'",
+      "examples": [
+        {
+          "korean": "아메리카노 하나 주세요",
+          "english": "One Americano please"
+        },
+        {
+          "korean": "라떼 하나 주세요",
+          "english": "One latte please"
+        },
+        {
+          "korean": "물 한잔 주세요",
+          "english": "One glass of water please"
+        },
+        {
+          "korean": "메뉴판 좀 주세요",
+          "english": "Menu please"
+        },
+        {
+          "korean": "영수증 주세요",
+          "english": "Receipt please"
+        },
+        {
+          "korean": "밥 주세요",
+          "english": "Rice please"
+        },
+        {
+          "korean": "국 주세요",
+          "english": "Soup please"
+        }
+      ],
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "pattern": "[Place] + 가주세요",
+      "meaning": "Please go to [place] (used in taxi context)",
+      "examples": [
+        {
+          "korean": "카페 가주세요",
+          "english": "Please go to the cafe"
+        }
+      ],
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "pattern": "Linking sounds (연음)",
+      "meaning": "When a syllable ending consonant is followed by a vowel-starting syllable, the consonant links to the next syllable",
+      "examples": [
+        {
+          "korean": "또 올게요 → 똘게요",
+          "english": "I will come again (linked)"
+        },
+        {
+          "korean": "물 한잔 → 물란잔",
+          "english": "One glass of water (linked)"
+        },
+        {
+          "korean": "아메리카노 하나 → 아메리카노 아나",
+          "english": "Americano one (linked with H-drop)"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "pattern": "[Action]~어도 돼요?",
+      "meaning": "May I [action]? / Is it okay to [action]? (permission request)",
+      "examples": [
+        {
+          "korean": "사진 찍어도 돼요?",
+          "english": "May I take a photo?"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 6,
+      "pattern": "[Noun] + 어디예요?",
+      "meaning": "Where is [noun]?",
+      "examples": [
+        {
+          "korean": "화장실 어디예요?",
+          "english": "Where is the bathroom?"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 7,
+      "pattern": "[Object] + 좀 + 주세요",
+      "meaning": "Softened polite request: 'Could I please have [object]' (좀 adds politeness)",
+      "examples": [
+        {
+          "korean": "메뉴판 좀 주세요",
+          "english": "Menu please (softened)"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "pattern": "[Place]에서 + 먹을게요",
+      "meaning": "I will eat at [place]",
+      "examples": [
+        {
+          "korean": "여기서 먹을게요",
+          "english": "I will eat here"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "pattern": "괜찮아요 (multi-purpose)",
+      "meaning": "It's okay / I'm fine / No thank you. Rising pitch = question (Is it okay?)",
+      "examples": [
+        {
+          "korean": "괜찮아요.",
+          "english": "It's okay / I'm fine / No thank you (statement)"
+        },
+        {
+          "korean": "괜찮아요?",
+          "english": "Is it okay? / Are you okay? (question, rising pitch)"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 10,
+      "pattern": "카드로 결제할게요",
+      "meaning": "I will pay by card (instrument particle 로 + future intent 할게요)",
+      "examples": [
+        {
+          "korean": "카드로 결제할게요",
+          "english": "I will pay by card"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "pattern": "포장해 주세요",
+      "meaning": "Request for takeout/to-go: 'Please wrap it up'",
+      "examples": [
+        {
+          "korean": "포장해 주세요",
+          "english": "To-go please / Wrap it up please"
+        }
+      ],
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 12,
+      "pattern": "[Noun] + 있어요? / 없어요",
+      "meaning": "Do you have [noun]? / There is no [noun]. Used for existence/possession.",
+      "examples": [
+        {
+          "korean": "카페 라떼 있어요?",
+          "english": "Do you have cafe latte?"
+        },
+        {
+          "korean": "네, 있어요",
+          "english": "Yes, we have it"
+        },
+        {
+          "korean": "카페 라떼 없어요",
+          "english": "We don't have cafe latte"
+        },
+        {
+          "korean": "Korea 한강 있어요",
+          "english": "There is Han River in Korea"
+        }
+      ],
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 13,
+      "pattern": "안녕히 계세요 / 안녕히 가세요",
+      "meaning": "Dual goodbye system: 계세요 (said by the person leaving, to the one staying) / 가세요 (said by the person staying, to the one leaving)",
+      "examples": [
+        {
+          "korean": "안녕히 계세요",
+          "english": "Goodbye (stay safe - said to person staying)"
+        },
+        {
+          "korean": "안녕히 가세요",
+          "english": "Goodbye (go safely - said to person leaving)"
+        }
+      ],
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 14,
+      "pattern": "어디에 가요?",
+      "meaning": "Where are you going? (어디 = where, 에 = to/direction, 가요 = go)",
+      "examples": [
+        {
+          "korean": "어디에 가요?",
+          "english": "Where are you going?"
+        },
+        {
+          "korean": "카페에 가요",
+          "english": "I'm going to the cafe"
+        }
+      ],
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 15,
+      "pattern": "차가운 거 드릴까요? / 따뜻한 거 드릴까요?",
+      "meaning": "Would you like a cold/hot one? (server asking about drink temperature)",
+      "examples": [
+        {
+          "korean": "차가운 거 드릴까요?",
+          "english": "Would you like a cold one?"
+        },
+        {
+          "korean": "따뜻한 거 드릴까요?",
+          "english": "Would you like a hot one?"
+        }
+      ],
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 16,
+      "pattern": "Vertical vowel (ㅏ,ㅓ,ㅣ) = right of consonant; Horizontal vowel (ㅗ,ㅜ,ㅡ) = below consonant",
+      "meaning": "Hangul letter positioning rule: vowel shape determines consonant placement in syllable block",
+      "examples": [
+        {
+          "korean": "나",
+          "english": "ㄴ + ㅏ (vertical vowel → right side)"
+        },
+        {
+          "korean": "코",
+          "english": "ㅋ + ㅗ (horizontal vowel → below)"
+        }
+      ],
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 17,
+      "pattern": "[Noun] + 좋아요 vs [Noun] + 좋아해요",
+      "meaning": "좋아요 = it's good (describes the object); 좋아해요 = I like it (describes speaker's attitude/action)",
+      "examples": [
+        {
+          "korean": "국 좋아요",
+          "english": "This soup is good (about the soup)"
+        },
+        {
+          "korean": "국 좋아해요",
+          "english": "I like soup (about the speaker)"
+        },
+        {
+          "korean": "빵 좋아해요",
+          "english": "I like bread"
+        }
+      ],
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 18,
+      "pattern": "Batchim linking (받침 연음)",
+      "meaning": "When a syllable-final consonant (batchim) is followed by a vowel, it fills the empty consonant slot of the next syllable",
+      "examples": [
+        {
+          "korean": "먹어요 → 머거요",
+          "english": "Eat (polite) - ㄱ batchim links to 어"
+        },
+        {
+          "korean": "물 한잔 → 물란잔",
+          "english": "Water one glass - ㄹ links to 한"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 19,
+      "pattern": "Question = rising pitch (↑) / Statement = falling pitch (↓)",
+      "meaning": "In Korean, questions and statements have identical word order. Only intonation distinguishes them.",
+      "examples": [
+        {
+          "korean": "가요? (↑)",
+          "english": "Do you go? / Are you going? (question)"
+        },
+        {
+          "korean": "가요. (↓)",
+          "english": "I go. / I'm going. (statement)"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 20,
+      "pattern": "Verb stem + 고 (and/connective)",
+      "meaning": "Connects two actions: 'do X and then Y' or lists actions",
+      "examples": [
+        {
+          "korean": "가고",
+          "english": "Go and..."
+        },
+        {
+          "korean": "오고",
+          "english": "Come and..."
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 21,
+      "pattern": "Verb stem + 다 (dictionary form)",
+      "meaning": "Base/neutral/dictionary form of verb. Used in written language and for looking up words.",
+      "examples": [
+        {
+          "korean": "가다",
+          "english": "To go"
+        },
+        {
+          "korean": "오다",
+          "english": "To come"
+        },
+        {
+          "korean": "먹다",
+          "english": "To eat"
+        },
+        {
+          "korean": "마시다",
+          "english": "To drink"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 22,
+      "pattern": "Verb stem + 면 (if/when)",
+      "meaning": "Conditional: 'if/when [action]'",
+      "examples": [
+        {
+          "korean": "가면",
+          "english": "If/when (you) go"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 23,
+      "pattern": "Verb stem + 아요/어요 (polite ending)",
+      "meaning": "Polite conversational form. Use 아요 when stem vowel is ㅏ or ㅗ; use 어요 for other vowels.",
+      "examples": [
+        {
+          "korean": "가다 → 가요",
+          "english": "Go (polite, stem vowel ㅏ → 아요)"
+        },
+        {
+          "korean": "오다 → 와요",
+          "english": "Come (polite, irregular: 오+아요 contracts to 와요)"
+        },
+        {
+          "korean": "먹다 → 먹어요",
+          "english": "Eat (polite, stem vowel ㅓ → 어요)"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 24,
+      "pattern": "Verb stem + 지만 (but/however)",
+      "meaning": "Contrastive connector: 'do X but...'",
+      "examples": [
+        {
+          "korean": "오지만",
+          "english": "Come but..."
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 25,
+      "pattern": "[Place]에 가요 / [Place]에서 와요",
+      "meaning": "에 = direction TO a place; 에서 = FROM a place. Movement particles.",
+      "examples": [
+        {
+          "korean": "카페에 가요",
+          "english": "I go to the cafe"
+        },
+        {
+          "korean": "집에 가요",
+          "english": "I go home"
+        },
+        {
+          "korean": "친구 집에서 와요",
+          "english": "I come from friend's house"
+        },
+        {
+          "korean": "미국에서 왔어요",
+          "english": "I came from the USA"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 26,
+      "pattern": "뭐 + Verb?",
+      "meaning": "What do you [verb]? (뭐 = what, question word)",
+      "examples": [
+        {
+          "korean": "뭐 먹어요?",
+          "english": "What do you eat?"
+        },
+        {
+          "korean": "고구마 먹어요",
+          "english": "I eat sweet potato (answer)"
+        },
+        {
+          "korean": "뭐 먹었어요?",
+          "english": "What did you eat?"
+        },
+        {
+          "korean": "뭐 마셨어요?",
+          "english": "What did you drink?"
+        }
+      ],
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 27,
+      "pattern": "어디에서 와요?",
+      "meaning": "Where do you come from? (어디 = where, 에서 = from, 와요 = come)",
+      "examples": [
+        {
+          "korean": "어디에서 와요?",
+          "english": "Where do you come from?"
+        },
+        {
+          "korean": "친구 집에서 와요",
+          "english": "I come from friend's house"
+        }
+      ],
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 28,
+      "pattern": "Past tense: polite form + ㅆ + 어요",
+      "meaning": "Converting present polite form to past tense by adding 쌍시옷 (ㅆ) and 어요",
+      "examples": [
+        {
+          "korean": "가요 → 갔어요",
+          "english": "go → went"
+        },
+        {
+          "korean": "와요 → 왔어요",
+          "english": "come → came"
+        },
+        {
+          "korean": "먹어요 → 먹었어요",
+          "english": "eat → ate"
+        },
+        {
+          "korean": "마셔요 → 마셨어요",
+          "english": "drink → drank"
+        },
+        {
+          "korean": "봐요 → 봤어요",
+          "english": "see → saw"
+        }
+      ],
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 29,
+      "pattern": "[place]에 갔어요",
+      "meaning": "I went to [place]",
+      "examples": [
+        {
+          "korean": "교회에 갔어요",
+          "english": "I went to church"
+        }
+      ],
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 30,
+      "pattern": "[place]에서 왔어요",
+      "meaning": "I came from [place]",
+      "examples": [
+        {
+          "korean": "미국에서 왔어요",
+          "english": "I came from the United States"
+        },
+        {
+          "korean": "저는 Durham에서 왔어요",
+          "english": "I came from Durham"
+        }
+      ],
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 31,
+      "pattern": "어디에 + verb?",
+      "meaning": "Where did/do [subject] [verb]? (direction)",
+      "examples": [
+        {
+          "korean": "어디에 갔어요?",
+          "english": "Where did you go?"
+        }
+      ],
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 32,
+      "pattern": "어디에서 왔어요?",
+      "meaning": "Where did you come from?",
+      "examples": [
+        {
+          "korean": "어디에서 왔어요?",
+          "english": "Where did you come from?"
+        },
+        {
+          "korean": "미국에서 왔어요",
+          "english": "I came from the United States"
+        }
+      ],
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 33,
+      "pattern": "Korean word order: Time → Place → With whom → Object → Action",
+      "meaning": "Korean sentence structure starts from big environment and zooms into action (verb-final)",
+      "examples": [
+        {
+          "korean": "어제 Durham에서 친구랑 피자 먹었어요",
+          "english": "Yesterday in Durham with friend pizza ate"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 34,
+      "pattern": "[name] + 이에요/예요",
+      "meaning": "I am [name]. Use 이에요 after consonant, 예요 after vowel.",
+      "examples": [
+        {
+          "korean": "Jack이에요",
+          "english": "I am Jack (consonant ending)"
+        },
+        {
+          "korean": "Chasity예요",
+          "english": "I am Chasity (vowel ending)"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 35,
+      "pattern": "[noun] + 는 (subject/topic marker)",
+      "meaning": "Marks the subject or topic of the sentence",
+      "examples": [
+        {
+          "korean": "저는 피자를 먹어요",
+          "english": "I eat pizza"
+        },
+        {
+          "korean": "저는 Durham에서 왔어요",
+          "english": "I came from Durham"
+        },
+        {
+          "korean": "지금은 Durham에 살아요",
+          "english": "Now I live in Durham"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 36,
+      "pattern": "[noun] + 를 (object marker)",
+      "meaning": "Marks the object of the sentence",
+      "examples": [
+        {
+          "korean": "피자를 먹어요",
+          "english": "I eat pizza"
+        },
+        {
+          "korean": "영어를 공부해요",
+          "english": "I study English"
+        },
+        {
+          "korean": "한국어를 배워요",
+          "english": "I learn Korean"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 37,
+      "pattern": "[place]에 살아요",
+      "meaning": "I live in [place]",
+      "examples": [
+        {
+          "korean": "지금은 Durham에 살아요",
+          "english": "Now I live in Durham"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 38,
+      "pattern": "[place]에 살았어요",
+      "meaning": "I lived in [place]",
+      "examples": [
+        {
+          "korean": "저는 Chapel Hill에 살았어요",
+          "english": "I lived in Chapel Hill"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 39,
+      "pattern": "[place]에서 일해요",
+      "meaning": "I work at [place]",
+      "examples": [
+        {
+          "korean": "병원에서 일해요",
+          "english": "I work at a hospital"
+        }
+      ],
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 40,
+      "pattern": "Final consonant ㄱ batchim (soft-k)",
+      "meaning": "Final ㄱ is unreleased; tongue touches roof of mouth without air puff",
+      "examples": [
+        {
+          "korean": "성격이 좋아요",
+          "english": "I have a good personality"
+        },
+        {
+          "korean": "성격은 따뜻해요",
+          "english": "My personality is warm"
+        },
+        {
+          "korean": "저는 성격이 활발해요",
+          "english": "I have an outgoing personality"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 41,
+      "pattern": "Place + 에 (destination / static location)",
+      "meaning": "Marks movement TO a place or static existence AT a place",
+      "examples": [
+        {
+          "korean": "카페에 가요",
+          "english": "I go to the cafe"
+        },
+        {
+          "korean": "집에 있어요",
+          "english": "I'm at home"
+        },
+        {
+          "korean": "학교에 가요",
+          "english": "I go to school"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 42,
+      "pattern": "Place + 에서 (location of action / origin)",
+      "meaning": "Marks where an action takes place (AT) or origin (FROM)",
+      "examples": [
+        {
+          "korean": "병원에서 일해요",
+          "english": "I work at the hospital"
+        },
+        {
+          "korean": "도서관에서 공부해요",
+          "english": "I study at the library"
+        },
+        {
+          "korean": "미국에서 왔어요",
+          "english": "I came from America"
+        },
+        {
+          "korean": "학교에서 공부해요",
+          "english": "I study at school"
+        },
+        {
+          "korean": "카페에서 쉬어요",
+          "english": "I rest at a cafe"
+        },
+        {
+          "korean": "집에서 일해요",
+          "english": "I work at home"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 43,
+      "pattern": "Verb stem + ~고 있어요 (progressive: doing now)",
+      "meaning": "Ongoing action in progress",
+      "examples": [
+        {
+          "korean": "학교에 다니고 있어요",
+          "english": "I am attending school"
+        },
+        {
+          "korean": "한국어를 배우고 있어요",
+          "english": "I am learning Korean"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 44,
+      "pattern": "Verb stem + ~았/었어요 (past tense)",
+      "meaning": "Past tense polite ending",
+      "examples": [
+        {
+          "korean": "공부했어요",
+          "english": "I studied"
+        },
+        {
+          "korean": "배웠어요",
+          "english": "I learned"
+        },
+        {
+          "korean": "말했어요",
+          "english": "I spoke"
+        },
+        {
+          "korean": "들었어요",
+          "english": "I listened"
+        },
+        {
+          "korean": "다녔어요",
+          "english": "I attended"
+        },
+        {
+          "korean": "갔어요",
+          "english": "I went"
+        },
+        {
+          "korean": "왔어요",
+          "english": "I came"
+        },
+        {
+          "korean": "먹었어요",
+          "english": "I ate"
+        },
+        {
+          "korean": "마셨어요",
+          "english": "I drank"
+        },
+        {
+          "korean": "봤어요",
+          "english": "I saw"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 45,
+      "pattern": "Verb stem + 요 (polite ending)",
+      "meaning": "Polite present tense ending; pronounced as single smooth 'yo' sound with rounded lips",
+      "examples": [
+        {
+          "korean": "공부해요",
+          "english": "I study"
+        },
+        {
+          "korean": "일해요",
+          "english": "I work"
+        },
+        {
+          "korean": "배워요",
+          "english": "I learn"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 46,
+      "pattern": "[language]로 말해요",
+      "meaning": "I speak in [language]",
+      "examples": [
+        {
+          "korean": "저는 영어로 말해요",
+          "english": "I speak in English"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 47,
+      "pattern": "[language]를 배워요",
+      "meaning": "I learn [language]",
+      "examples": [
+        {
+          "korean": "저는 지금 한국어를 배워요",
+          "english": "I am learning Korean now"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 48,
+      "pattern": "[noun]을/를 들어요",
+      "meaning": "I listen to [noun]",
+      "examples": [
+        {
+          "korean": "저는 음악을 들어요",
+          "english": "I listen to music"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 49,
+      "pattern": "[noun]을/를 좋아해요",
+      "meaning": "I like [noun]",
+      "examples": [
+        {
+          "korean": "저는 조깅을 좋아해요",
+          "english": "I like jogging"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 50,
+      "pattern": "[place]에 다녀요",
+      "meaning": "I regularly attend/go to [place]",
+      "examples": [
+        {
+          "korean": "저는 회사에 다녀요",
+          "english": "I go to work"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 51,
+      "pattern": "[subject]를 공부해요",
+      "meaning": "I study [subject]",
+      "examples": [
+        {
+          "korean": "저는 영어를 공부해요",
+          "english": "I study English"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 52,
+      "pattern": "~고 싶어요",
+      "meaning": "I want to ~ (change dictionary 다 to 고 싶어요)",
+      "examples": [
+        {
+          "korean": "저는 여행을 하고 싶어요",
+          "english": "I want to travel"
+        },
+        {
+          "korean": "부산에 가고 싶어요",
+          "english": "I want to go to Busan"
+        },
+        {
+          "korean": "Plane ticket 사고 싶어요",
+          "english": "I want to buy a plane ticket"
+        },
+        {
+          "korean": "교회에 가고 싶어요",
+          "english": "I want to go to church"
+        },
+        {
+          "korean": "쿠키 먹고 싶어요",
+          "english": "I want to eat a cookie"
+        },
+        {
+          "korean": "차 마시고 싶어요",
+          "english": "I want to drink tea"
+        },
+        {
+          "korean": "받고 싶어요",
+          "english": "I want to receive"
+        }
+      ],
+      "lessons": [
+        10,
+        13
+      ]
+    },
+    {
+      "id": 53,
+      "pattern": "~에 관심 있어요",
+      "meaning": "I am interested in ~",
+      "examples": [
+        {
+          "korean": "저는 여행에 관심 있어요",
+          "english": "I am interested in travel"
+        }
+      ],
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 54,
+      "pattern": "Noun + (이)에요/예요 (copula: am/is/are)",
+      "meaning": "Identity or descriptive copula in polite form",
+      "examples": [
+        {
+          "korean": "저는 Chasity예요",
+          "english": "I am Chasity"
+        },
+        {
+          "korean": "저는 영어 선생님이에요",
+          "english": "I am an English teacher"
+        },
+        {
+          "korean": "삼만원이에요",
+          "english": "It is 30,000 won"
+        },
+        {
+          "korean": "따뜻한 성격이에요",
+          "english": "It's a warm personality"
+        }
+      ],
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 55,
+      "pattern": "ㅎ batchim + vowel → ㅎ drops (H-drop irregular)",
+      "meaning": "When ㅎ at the bottom of a syllable meets a vowel, the ㅎ sound disappears",
+      "examples": [
+        {
+          "korean": "좋아해요 → 조아해요",
+          "english": "Like (written vs spoken)"
+        },
+        {
+          "korean": "좋아요 → 조아요",
+          "english": "Good (written vs spoken)"
+        }
+      ],
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 56,
+      "pattern": "뭐 + verb + 고 싶어요?",
+      "meaning": "What do you want to [verb]?",
+      "examples": [
+        {
+          "korean": "뭐 사고 싶어요?",
+          "english": "What do you want to buy?"
+        }
+      ],
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 57,
+      "pattern": "안 + verb (negation)",
+      "meaning": "Placed directly before a verb to negate it",
+      "examples": [
+        {
+          "korean": "안 먹었어요",
+          "english": "Didn't eat"
+        },
+        {
+          "korean": "안 예약했어요",
+          "english": "Didn't reserve"
+        },
+        {
+          "korean": "안 일해요",
+          "english": "Don't work"
+        },
+        {
+          "korean": "안 받고 싶어요",
+          "english": "I don't want to receive it"
+        },
+        {
+          "korean": "안 먹어요",
+          "english": "I don't eat it"
+        },
+        {
+          "korean": "안 가요",
+          "english": "I don't go"
+        },
+        {
+          "korean": "안 좋아해요",
+          "english": "I don't like it"
+        },
+        {
+          "korean": "안 바빠요",
+          "english": "I'm not busy"
+        },
+        {
+          "korean": "저는 커피를 안 마셔요",
+          "english": "I don't drink coffee"
+        }
+      ],
+      "lessons": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": 58,
+      "pattern": "어디에 가고 싶어요?",
+      "meaning": "Where do you want to go?",
+      "examples": [
+        {
+          "korean": "어디에 가고 싶어요?",
+          "english": "Where do you want to go?"
+        },
+        {
+          "korean": "부산에 가고 싶어요",
+          "english": "I want to go to Busan"
+        }
+      ],
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 59,
+      "pattern": "어제 + [noun] + verb(past)?",
+      "meaning": "Did you [verb] [noun] yesterday?",
+      "examples": [
+        {
+          "korean": "어제 뭐 마셨어요?",
+          "english": "What did you drink yesterday?"
+        },
+        {
+          "korean": "어제 뭐 봤어요?",
+          "english": "What did you watch yesterday?"
+        },
+        {
+          "korean": "어제 책 읽었어요?",
+          "english": "Did you read a book yesterday?"
+        },
+        {
+          "korean": "어제 뭐 받았어요?",
+          "english": "What did you receive yesterday?"
+        }
+      ],
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 60,
+      "pattern": "개 + adjective/verb (slang intensifier)",
+      "meaning": "Really/very [adjective/verb] (casual slang, using 개 as emphasis prefix)",
+      "examples": [
+        {
+          "korean": "개배고파",
+          "english": "Really hungry"
+        },
+        {
+          "korean": "개아파",
+          "english": "Really sick"
+        },
+        {
+          "korean": "개먹고 싶어",
+          "english": "Really want to eat"
+        }
+      ],
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 61,
+      "pattern": "Verb stem + ~(으)ㄹ 거예요 (future tense)",
+      "meaning": "Expresses future plans or intentions",
+      "examples": [
+        {
+          "korean": "해운대에 갈 거예요",
+          "english": "I will go to Haeundae"
+        },
+        {
+          "korean": "자갈치시장에서 먹을 거예요",
+          "english": "I will eat at Jagalchi Market"
+        },
+        {
+          "korean": "5월에 부산에 갈 거예요",
+          "english": "I will go to Busan in May"
+        },
+        {
+          "korean": "이번 주말에 뭐 할 거예요?",
+          "english": "What will you do this weekend?"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 62,
+      "pattern": "~(으)ㄹ게요",
+      "meaning": "I will ~ (expressing intention/promise)",
+      "examples": [
+        {
+          "korean": "여기서 먹을게요",
+          "english": "I will eat here"
+        },
+        {
+          "korean": "카드로 결제할게요",
+          "english": "I will pay by card"
+        },
+        {
+          "korean": "카드로 계산할게요",
+          "english": "I'll pay by card"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 63,
+      "pattern": "~(으)로",
+      "meaning": "By means of / with (instrument particle)",
+      "examples": [
+        {
+          "korean": "카드로 결제할게요",
+          "english": "I will pay by card"
+        },
+        {
+          "korean": "한국어로 말해요",
+          "english": "I speak in Korean"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 64,
+      "pattern": "~아/어도 될까요?",
+      "meaning": "May I ~? / Is it okay if I ~?",
+      "examples": [
+        {
+          "korean": "사진 찍어도 될까요?",
+          "english": "May I take a picture?"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 65,
+      "pattern": "~아/어요",
+      "meaning": "Present tense (polite) - do ~",
+      "examples": [
+        {
+          "korean": "카페에서 와요",
+          "english": "I come from a cafe"
+        },
+        {
+          "korean": "뭐 먹어요?",
+          "english": "What are you eating?"
+        },
+        {
+          "korean": "영화 봐요",
+          "english": "I watch a movie"
+        },
+        {
+          "korean": "노래 들어요",
+          "english": "I listen to a song"
+        },
+        {
+          "korean": "한국어로 말해요",
+          "english": "I speak in Korean"
+        },
+        {
+          "korean": "책 읽어요",
+          "english": "I read a book"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 66,
+      "pattern": "~았/었어요",
+      "meaning": "Past tense (polite) - did ~",
+      "examples": [
+        {
+          "korean": "집에 갔어요",
+          "english": "I went home"
+        },
+        {
+          "korean": "고구마 먹었어요",
+          "english": "I ate sweet potato"
+        },
+        {
+          "korean": "우유 마셨어요",
+          "english": "I drank milk"
+        },
+        {
+          "korean": "왔어요",
+          "english": "I came"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 67,
+      "pattern": "~에 갔어요",
+      "meaning": "Went to ~ (past tense, location particle)",
+      "examples": [
+        {
+          "korean": "집에 갔어요",
+          "english": "I went home"
+        },
+        {
+          "korean": "교회에 가고 싶어요",
+          "english": "I want to go to church"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 68,
+      "pattern": "~에서 왔어요?",
+      "meaning": "Where did you come from? / I came from ~",
+      "examples": [
+        {
+          "korean": "어디에서 왔어요?",
+          "english": "Where did you come from?"
+        },
+        {
+          "korean": "카페에서 와요",
+          "english": "I come from a cafe"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 69,
+      "pattern": "~이/가 어디예요?",
+      "meaning": "Where is ~?",
+      "examples": [
+        {
+          "korean": "화장실이 어디예요?",
+          "english": "Where is the bathroom?"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 70,
+      "pattern": "~주세요",
+      "meaning": "Please give me / Please do (polite request)",
+      "examples": [
+        {
+          "korean": "메뉴판 좀 주세요",
+          "english": "Please give me the menu"
+        },
+        {
+          "korean": "물 한 잔 주세요",
+          "english": "A glass of water, please"
+        },
+        {
+          "korean": "영수증 주세요",
+          "english": "Receipt, please"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 71,
+      "pattern": "~해 주세요",
+      "meaning": "Please do ~ for me (polite request with action verb)",
+      "examples": [
+        {
+          "korean": "포장해 주세요",
+          "english": "Take out, please (please package it)"
+        }
+      ],
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 72,
+      "pattern": "A-보다 B-가 더 [adjective] (comparison)",
+      "meaning": "B is more [adjective] than A",
+      "examples": [
+        {
+          "korean": "커피보다 차가 더 좋아요",
+          "english": "I like tea more than coffee"
+        },
+        {
+          "korean": "여름보다 겨울이 더 추워요",
+          "english": "Winter is colder than summer"
+        },
+        {
+          "korean": "한국보다 미국이 더 커요",
+          "english": "America is bigger than Korea"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 73,
+      "pattern": "Adjective base + -(으)ㄴ (adnominal/관형형)",
+      "meaning": "Adjective modifying form placed before nouns",
+      "examples": [
+        {
+          "korean": "차갑다 → 차가운",
+          "english": "cold (thing) → cold [noun]"
+        },
+        {
+          "korean": "뜨겁다 → 뜨거운",
+          "english": "hot (thing) → hot [noun]"
+        },
+        {
+          "korean": "춥다 → 추운",
+          "english": "cold (weather) → cold [noun]"
+        },
+        {
+          "korean": "덥다 → 더운",
+          "english": "hot (weather) → hot [noun]"
+        },
+        {
+          "korean": "따뜻하다 → 따뜻한",
+          "english": "warm → warm [noun]"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 74,
+      "pattern": "Noun이/가 + 차가워요/뜨거워요",
+      "meaning": "[Object] is cold/hot (object temperature description)",
+      "examples": [
+        {
+          "korean": "커피가 차가워요",
+          "english": "Coffee is cold"
+        },
+        {
+          "korean": "차가 뜨거워요",
+          "english": "Tea is hot"
+        },
+        {
+          "korean": "빵이 차가워요",
+          "english": "The bread is cold"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 75,
+      "pattern": "Noun이/가 + 추워요/더워요",
+      "meaning": "[Place/Weather] is cold/hot (weather temperature description)",
+      "examples": [
+        {
+          "korean": "도시가 추워요",
+          "english": "City is cold"
+        },
+        {
+          "korean": "날씨가 더워요",
+          "english": "Weather is hot"
+        },
+        {
+          "korean": "방이 추워요",
+          "english": "The room is cold"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 76,
+      "pattern": "Subject particle 이/가",
+      "meaning": "Subject marker: 이 after consonant, 가 after vowel (used with descriptive adjectives)",
+      "examples": [
+        {
+          "korean": "커피가 차가워요",
+          "english": "Coffee is cold (가 after vowel)"
+        },
+        {
+          "korean": "방이 추워요",
+          "english": "Room is cold (이 after consonant)"
+        },
+        {
+          "korean": "빵이 차가워요",
+          "english": "Bread is cold (이 after consonant)"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 77,
+      "pattern": "Temperature personality metaphors (온도 성격 표현)",
+      "meaning": "Korean uses temperature adjectives metaphorically for personality traits",
+      "examples": [
+        {
+          "korean": "뜨거운 사람 = 열정적인 사람",
+          "english": "Hot person = passionate person"
+        },
+        {
+          "korean": "따뜻한 사람",
+          "english": "Warm person = caring person"
+        },
+        {
+          "korean": "시원한 사람 = 시원시원한 성격",
+          "english": "Cool person = refreshingly direct person"
+        },
+        {
+          "korean": "차가운 사람 = 쌀쌀맞은 사람",
+          "english": "Cold person = distant/unfriendly person"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 78,
+      "pattern": "Temperature words: 차갑다/춥다 vs 뜨겁다/덥다",
+      "meaning": "차갑다/뜨겁다 for objects (touch), 춥다/덥다 for weather/environment",
+      "examples": [
+        {
+          "korean": "커피가 뜨거워요",
+          "english": "The coffee is hot (object)"
+        },
+        {
+          "korean": "오늘 더워요",
+          "english": "Today is hot (weather)"
+        },
+        {
+          "korean": "아이스 아메리카노가 차가워요",
+          "english": "The iced americano is cold (object)"
+        },
+        {
+          "korean": "겨울에 한국은 추워요",
+          "english": "Korea is cold in winter (weather)"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 79,
+      "pattern": "Topic particle 은/는",
+      "meaning": "Topic marker: 은 after consonant, 는 after vowel (used with action verbs)",
+      "examples": [
+        {
+          "korean": "저는 어제 병원에 갔어요",
+          "english": "As for me, I went to the hospital yesterday"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 80,
+      "pattern": "차가운/뜨거운/추운/더운 + Noun",
+      "meaning": "Cold/hot + noun (adjective modifier before noun)",
+      "examples": [
+        {
+          "korean": "차가운 물",
+          "english": "Cold water"
+        },
+        {
+          "korean": "뜨거운 숲",
+          "english": "Hot soup"
+        },
+        {
+          "korean": "추운 겨울",
+          "english": "Cold winter"
+        },
+        {
+          "korean": "더운 여름",
+          "english": "Hot summer"
+        }
+      ],
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 81,
+      "pattern": "Verb stem + ~고 싶어요 (want to do)",
+      "meaning": "Expresses desires or wishes; attach to verb stem",
+      "examples": [
+        {
+          "korean": "뭐 받고 싶어요?",
+          "english": "What do you want to receive?"
+        },
+        {
+          "korean": "여권을 갱신하고 싶어요",
+          "english": "I want to renew my passport"
+        },
+        {
+          "korean": "한국에 가고 싶어요",
+          "english": "I want to go to Korea"
+        },
+        {
+          "korean": "커피를 마시고 싶어요",
+          "english": "I want to drink coffee"
+        },
+        {
+          "korean": "쉬고 싶어요",
+          "english": "I want to rest"
+        },
+        {
+          "korean": "한국어를 배우고 싶어요",
+          "english": "I want to learn Korean"
+        },
+        {
+          "korean": "선생님이 되고 싶어요",
+          "english": "I want to become a teacher"
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 82,
+      "pattern": "[Place]에 갔어요. [Action]했어요.",
+      "meaning": "Went to [place]. Did [action]. (Korean separates location and action into two sentences)",
+      "examples": [
+        {
+          "korean": "병원에 갔어요. 일했어요.",
+          "english": "I went to the hospital. I worked."
+        },
+        {
+          "korean": "가게에 갔어요. 쇼핑했어요.",
+          "english": "I went to the store. I shopped."
+        },
+        {
+          "korean": "카페에 갔어요. 커피 마셨어요.",
+          "english": "I went to the cafe. I drank coffee."
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 83,
+      "pattern": "[Place]에 갔어요. [Action]했어요. (went to + did)",
+      "meaning": "In Korean, separate the location and action into two sentences when describing past activities",
+      "examples": [
+        {
+          "korean": "병원에 갔어요. 일했어요.",
+          "english": "I went to the hospital. I worked."
+        },
+        {
+          "korean": "가게에 갔어요. 쇼핑했어요.",
+          "english": "I went to the store. I shopped."
+        },
+        {
+          "korean": "카페에 갔어요. 커피 마셨어요.",
+          "english": "I went to a cafe. I drank coffee."
+        },
+        {
+          "korean": "식당에 갔어요. 먹었어요.",
+          "english": "I went to a restaurant. I ate."
+        },
+        {
+          "korean": "도서관에 갔어요. 공부했어요.",
+          "english": "I went to the library. I studied."
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 84,
+      "pattern": "[Place]에서 [verb]해요 (activity at a place)",
+      "meaning": "Use 에서 when describing where an ongoing/habitual activity happens",
+      "examples": [
+        {
+          "korean": "병원에서 일해요",
+          "english": "I work at the hospital"
+        },
+        {
+          "korean": "학교에서 공부해요",
+          "english": "I study at school"
+        },
+        {
+          "korean": "카페에서 쉬어요",
+          "english": "I rest at a cafe"
+        },
+        {
+          "korean": "집에서 일해요",
+          "english": "I work at home"
+        },
+        {
+          "korean": "방사선 종양학에서 일해요",
+          "english": "I work in Radiation Oncology"
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 85,
+      "pattern": "~에서 일해요",
+      "meaning": "I work at ~ (location of activity with particle 에서)",
+      "examples": [
+        {
+          "korean": "병원에서 일해요",
+          "english": "I work at the hospital"
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 86,
+      "pattern": "~을/를 공유해 주셔서 감사합니다",
+      "meaning": "Thank you for sharing ~ (polite conversation closing)",
+      "examples": [
+        {
+          "korean": "관점을 공유해 주셔서 감사합니다",
+          "english": "Thank you for sharing your perspective"
+        },
+        {
+          "korean": "정보를 공유해 주셔서 감사합니다",
+          "english": "Thank you for sharing your information"
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 87,
+      "pattern": "받다 / [noun]을/를 받았어요 (to receive)",
+      "meaning": "Used when talking about getting gifts, calls, messages, or items from others",
+      "examples": [
+        {
+          "korean": "선물을 받았어요",
+          "english": "I received a gift"
+        },
+        {
+          "korean": "전화를 받았어요",
+          "english": "I received a call"
+        },
+        {
+          "korean": "메시지를 받았어요",
+          "english": "I received a message"
+        },
+        {
+          "korean": "초대를 받았어요",
+          "english": "I received an invitation"
+        },
+        {
+          "korean": "아무것도 안 받았어요",
+          "english": "I didn't receive anything"
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 88,
+      "pattern": "안 + Verb",
+      "meaning": "Not / don't (negation before verb)",
+      "examples": [
+        {
+          "korean": "안 갔어요",
+          "english": "Didn't go"
+        },
+        {
+          "korean": "안 받고 싶어요",
+          "english": "Don't want to receive"
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 89,
+      "pattern": "요즘 + [sentence] (time marker: these days)",
+      "meaning": "Used to talk about current trends, feelings, or activities",
+      "examples": [
+        {
+          "korean": "요즘 뭐 좋아해요?",
+          "english": "What do you like these days?"
+        },
+        {
+          "korean": "요즘 날씨가 추워요.",
+          "english": "The weather is cold these days."
+        },
+        {
+          "korean": "요즘 바빠요.",
+          "english": "I'm busy these days."
+        },
+        {
+          "korean": "요즘 뭐 해요?",
+          "english": "What are you doing lately?"
+        },
+        {
+          "korean": "요즘 한국어 공부해요.",
+          "english": "I'm studying Korean these days."
+        }
+      ],
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 90,
+      "pattern": "Particle 에 (at / in / to)",
+      "meaning": "Indicates static location, destination, or time",
+      "examples": [
+        {
+          "korean": "채플 힐에 살았어요",
+          "english": "I lived IN Chapel Hill"
+        },
+        {
+          "korean": "병원에 갔어요",
+          "english": "I went TO the hospital"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 91,
+      "pattern": "Particle 에서 (from / at-doing)",
+      "meaning": "Indicates origin (from) or location where an activity takes place",
+      "examples": [
+        {
+          "korean": "드럼에서 왔어요",
+          "english": "I came FROM Durham"
+        },
+        {
+          "korean": "병원에서 일해요",
+          "english": "I work AT the hospital"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 92,
+      "pattern": "~에 살아요",
+      "meaning": "I live in ~ (current residence with particle 에)",
+      "examples": [
+        {
+          "korean": "저는 Durham에 살아요",
+          "english": "I live in Durham"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 93,
+      "pattern": "~에 살았어요",
+      "meaning": "I lived in ~ (past residence with particle 에)",
+      "examples": [
+        {
+          "korean": "채플 힐에 살았어요",
+          "english": "I lived in Chapel Hill"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 94,
+      "pattern": "~에서 왔어요",
+      "meaning": "I came from ~ (origin with particle 에서)",
+      "examples": [
+        {
+          "korean": "드럼에서 왔어요",
+          "english": "I came from Durham"
+        },
+        {
+          "korean": "어디에서 왔어요?",
+          "english": "Where did you come from?"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 95,
+      "pattern": "전국에 + weather",
+      "meaning": "Nationwide + weather phenomenon",
+      "examples": [
+        {
+          "korean": "전국에 비가 와요",
+          "english": "It rains nationwide"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 96,
+      "pattern": "찬 + Noun (shortened form of 차가운)",
+      "meaning": "Cold + noun (shortened adjective modifier)",
+      "examples": [
+        {
+          "korean": "찬 밥",
+          "english": "Cold rice"
+        },
+        {
+          "korean": "찬 물",
+          "english": "Cold water"
+        }
+      ],
+      "lessons": [
+        16
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": 1,
+      "korean": "가주세요",
+      "english": "Please go (to destination)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "korean": "감사합니다",
+      "english": "Thank you",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "korean": "또 올게요",
+      "english": "I will come again",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "korean": "라떼 하나 주세요",
+      "english": "One latte please",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "korean": "수고하세요",
+      "english": "Keep working hard / Goodbye (to workers)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 6,
+      "korean": "아메리카노 하나 주세요",
+      "english": "One Americano please",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "korean": "안녕하세요",
+      "english": "Hello",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 8,
+      "korean": "저기요~",
+      "english": "Excuse me (warm, elongated)",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 9,
+      "korean": "죄송합니다",
+      "english": "I'm sorry (formal)",
+      "lessons": [
+        0,
+        13
+      ]
+    },
+    {
+      "id": 10,
+      "korean": "카페 가주세요",
+      "english": "Please go to the cafe",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 11,
+      "korean": "하나 주세요",
+      "english": "One please",
+      "lessons": [
+        0
+      ]
+    },
+    {
+      "id": 12,
+      "korean": "괜찮아요",
+      "english": "It's okay / I'm fine / No thank you",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 13,
+      "korean": "메뉴판 좀 주세요",
+      "english": "Please give me the menu",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 14,
+      "korean": "물 한잔 주세요",
+      "english": "One glass of water please",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 15,
+      "korean": "사진 찍어도 돼요?",
+      "english": "May I take a photo?",
+      "lessons": [
+        1
+      ]
+    },
+    {
+      "id": 16,
+      "korean": "여기서 먹을게요",
+      "english": "I will eat here",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 17,
+      "korean": "영수증 주세요",
+      "english": "Receipt, please",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 18,
+      "korean": "카드로 결제할게요",
+      "english": "I will pay by card",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 19,
+      "korean": "포장해 주세요",
+      "english": "To-go please / Wrap it up please",
+      "lessons": [
+        1,
+        13
+      ]
+    },
+    {
+      "id": 20,
+      "korean": "화장실 어디예요?",
+      "english": "Where is the bathroom?",
+      "lessons": [
+        1,
+        6,
+        14
+      ]
+    },
+    {
+      "id": 21,
+      "korean": "네, 카페 라떼 있어요",
+      "english": "Yes, we have cafe latte",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 22,
+      "korean": "네, 카페 라떼 하나 주세요",
+      "english": "Yes, one cafe latte please",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 23,
+      "korean": "아이스 주세요",
+      "english": "Iced please",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 24,
+      "korean": "안녕히 가세요",
+      "english": "Goodbye (to person leaving)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 25,
+      "korean": "안녕히 계세요",
+      "english": "Goodbye (to person staying)",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 26,
+      "korean": "어디에 가요?",
+      "english": "Where are you going?",
+      "lessons": [
+        2,
+        6,
+        10
+      ]
+    },
+    {
+      "id": 27,
+      "korean": "카페 라떼 있어요?",
+      "english": "Do you have cafe latte?",
+      "lessons": [
+        2
+      ]
+    },
+    {
+      "id": 28,
+      "korean": "카페에 가요",
+      "english": "I'm going to the cafe",
+      "lessons": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 29,
+      "korean": "2층이에요",
+      "english": "It's on the 2nd floor",
+      "lessons": [
+        3
+      ]
+    },
+    {
+      "id": 30,
+      "korean": "국 좋아요",
+      "english": "This soup is good",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 31,
+      "korean": "국 좋아해요",
+      "english": "I like soup",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 32,
+      "korean": "국 주세요",
+      "english": "Soup please",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 33,
+      "korean": "밥 주세요",
+      "english": "Rice please",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 34,
+      "korean": "빵 좋아해요",
+      "english": "I like bread",
+      "lessons": [
+        5
+      ]
+    },
+    {
+      "id": 35,
+      "korean": "가요.",
+      "english": "I go. (falling pitch = statement)",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 36,
+      "korean": "가요?",
+      "english": "Do you go? (rising pitch = question)",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 37,
+      "korean": "고구마 먹어요",
+      "english": "I eat sweet potato",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 38,
+      "korean": "고구마 있어요?",
+      "english": "Do you have sweet potato?",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 39,
+      "korean": "뭐 먹어요?",
+      "english": "What are you eating?",
+      "lessons": [
+        6,
+        11,
+        13
+      ]
+    },
+    {
+      "id": 40,
+      "korean": "미국에서 왔어요",
+      "english": "I came from the United States",
+      "lessons": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 41,
+      "korean": "어디에서 와요?",
+      "english": "Where do you come from?",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 42,
+      "korean": "집에 가요",
+      "english": "I go home",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 43,
+      "korean": "친구 집에서 와요",
+      "english": "I come from friend's house",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 44,
+      "korean": "화장실에 가요",
+      "english": "I go to the bathroom",
+      "lessons": [
+        6
+      ]
+    },
+    {
+      "id": 45,
+      "korean": "고구마 먹었어요",
+      "english": "I ate sweet potato",
+      "lessons": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": 46,
+      "korean": "교회에 갔어요",
+      "english": "I went to church",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 47,
+      "korean": "뭐 마셨어요?",
+      "english": "What did you drink?",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 48,
+      "korean": "뭐 먹었어요?",
+      "english": "What did you eat?",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 49,
+      "korean": "어디에 갔어요?",
+      "english": "Where did you go?",
+      "lessons": [
+        8,
+        15
+      ]
+    },
+    {
+      "id": 50,
+      "korean": "어디에서 왔어요?",
+      "english": "Where did you come from?",
+      "lessons": [
+        8,
+        13,
+        16
+      ]
+    },
+    {
+      "id": 51,
+      "korean": "영화 봤어요",
+      "english": "I watched a movie",
+      "lessons": [
+        8
+      ]
+    },
+    {
+      "id": 52,
+      "korean": "우유 마셨어요",
+      "english": "I drank milk",
+      "lessons": [
+        8,
+        13
+      ]
+    },
+    {
+      "id": 53,
+      "korean": "병원에서 일해요",
+      "english": "I work at the hospital",
+      "lessons": [
+        9,
+        15
+      ]
+    },
+    {
+      "id": 54,
+      "korean": "저는 Chapel Hill에 살았어요",
+      "english": "I lived in Chapel Hill",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 55,
+      "korean": "저는 Durham에서 왔어요",
+      "english": "I came from Durham",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 56,
+      "korean": "저는 피자를 먹어요",
+      "english": "I eat pizza",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 57,
+      "korean": "지금은 Durham에 살아요",
+      "english": "Now I live in Durham",
+      "lessons": [
+        9
+      ]
+    },
+    {
+      "id": 58,
+      "korean": "도서관에서 공부해요.",
+      "english": "I study at the library.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 59,
+      "korean": "따뜻한 성격이에요.",
+      "english": "It's a warm personality.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 60,
+      "korean": "미국에서 왔어요.",
+      "english": "I came from America.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 61,
+      "korean": "병원에서 일해요.",
+      "english": "I work at the hospital.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 62,
+      "korean": "성격은 따뜻해요.",
+      "english": "My personality is warm.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 63,
+      "korean": "성격이 좋아요.",
+      "english": "I have a good personality.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 64,
+      "korean": "어디에서 공부해요?",
+      "english": "Where do you study?",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 65,
+      "korean": "여행을 좋아해요.",
+      "english": "I like traveling.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 66,
+      "korean": "영어를 말해요.",
+      "english": "I speak English.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 67,
+      "korean": "오늘 뭘 공부했어요?",
+      "english": "What did you study today?",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 68,
+      "korean": "음악을 들어요.",
+      "english": "I listen to music.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 69,
+      "korean": "저는 매일 공부해요.",
+      "english": "I study every day.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 70,
+      "korean": "저는 성격이 활발해요.",
+      "english": "I have an outgoing personality.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 71,
+      "korean": "저는 안 가요.",
+      "english": "I don't go.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 72,
+      "korean": "저는 여행에 관심 있어요",
+      "english": "I am interested in travel",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 73,
+      "korean": "저는 여행을 하고 싶어요",
+      "english": "I want to travel",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 74,
+      "korean": "저는 영어로 말해요",
+      "english": "I speak in English",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 75,
+      "korean": "저는 영어를 공부해요",
+      "english": "I study English",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 76,
+      "korean": "저는 음악을 들어요",
+      "english": "I listen to music",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 77,
+      "korean": "저는 조깅을 좋아해요",
+      "english": "I like jogging",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 78,
+      "korean": "저는 지금 한국어를 배워요",
+      "english": "I am learning Korean now",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 79,
+      "korean": "저는 카페에서 일해요. 도서관에 공부하러 가요.",
+      "english": "I work at a cafe. I go to the library to study.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 80,
+      "korean": "저는 회사에 다녀요",
+      "english": "I go to work",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 81,
+      "korean": "전공 했어요",
+      "english": "I majored in (it)",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 82,
+      "korean": "제 성격은 따뜻해요.",
+      "english": "My personality is warm.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 83,
+      "korean": "좋은 성격이 있어요.",
+      "english": "I have a good personality.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 84,
+      "korean": "집에 있어요.",
+      "english": "I'm at home.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 85,
+      "korean": "카페에 가요.",
+      "english": "I go to the cafe.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 86,
+      "korean": "학교에 다니고 있어요.",
+      "english": "I am attending school.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 87,
+      "korean": "한국어 공부했어요.",
+      "english": "I studied Korean.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 88,
+      "korean": "한국어를 배우고 있어요.",
+      "english": "I am learning Korean.",
+      "lessons": [
+        10
+      ]
+    },
+    {
+      "id": 89,
+      "korean": "Colored note cards 받았어요",
+      "english": "I received colored note cards",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 90,
+      "korean": "Email 받았어요",
+      "english": "I received an email",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 91,
+      "korean": "Mindhunters 봤어요",
+      "english": "I watched Mindhunters",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 92,
+      "korean": "Note card 기다려요",
+      "english": "I am waiting for note cards",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 93,
+      "korean": "Plane ticket 사고 싶어요",
+      "english": "I want to buy a plane ticket",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 94,
+      "korean": "Scarcity Brain 읽었어요",
+      "english": "I read Scarcity Brain",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 95,
+      "korean": "Smoothie 마셨어요",
+      "english": "I drank a smoothie",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 96,
+      "korean": "Toast 먹어요",
+      "english": "I eat toast",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 97,
+      "korean": "뭐 사고 싶어요?",
+      "english": "What do you want to buy?",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 98,
+      "korean": "부산에 가고 싶어요",
+      "english": "I want to go to Busan",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 99,
+      "korean": "안 먹었어요",
+      "english": "I didn't eat",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 100,
+      "korean": "안 예약했어요",
+      "english": "I didn't reserve",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 101,
+      "korean": "안 일해요",
+      "english": "I don't work",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 102,
+      "korean": "어디에 가고 싶어요?",
+      "english": "Where do you want to go?",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 103,
+      "korean": "어제 뭐 마셨어요?",
+      "english": "What did you drink yesterday?",
+      "lessons": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": 104,
+      "korean": "어제 뭐 받았어요?",
+      "english": "What did you receive yesterday?",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 105,
+      "korean": "어제 책 읽었어요?",
+      "english": "Did you read a book yesterday?",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 106,
+      "korean": "오늘 뭐 봤어요?",
+      "english": "What did you watch today?",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 107,
+      "korean": "저는 Chasity예요.",
+      "english": "I am Chasity.",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 108,
+      "korean": "저는 Durham에서 왔어요.",
+      "english": "I came from Durham.",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 109,
+      "korean": "저는 병원에서 일해요.",
+      "english": "I work at a hospital.",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 110,
+      "korean": "지금은 Chapel Hill에 살아요.",
+      "english": "Now I live in Chapel Hill.",
+      "lessons": [
+        11
+      ]
+    },
+    {
+      "id": 111,
+      "korean": "비가 내려요",
+      "english": "It is raining (rain goes down)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 112,
+      "korean": "비가 옆으로 가요",
+      "english": "Rain goes sideways",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 113,
+      "korean": "하늘에 구멍이 뚫렸나?",
+      "english": "Is there a hole poked in the sky? (Is it raining cats and dogs?)",
+      "lessons": [
+        12
+      ]
+    },
+    {
+      "id": 114,
+      "korean": "TESOL 수업 어때요?",
+      "english": "How's the TESOL class?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 115,
+      "korean": "광안리에서 봤어요.",
+      "english": "I saw it at Gwangalli.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 116,
+      "korean": "교회에 가고 싶어요",
+      "english": "I want to go to church",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 117,
+      "korean": "네, 많아요!",
+      "english": "Yes, we have a lot!",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 118,
+      "korean": "노래 들어요",
+      "english": "I listen to a song",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 119,
+      "korean": "물 한 잔 주세요",
+      "english": "A glass of water, please",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 120,
+      "korean": "뭐 봐요?",
+      "english": "What do you watch?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 121,
+      "korean": "뭐 읽어요?",
+      "english": "What do you read?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 122,
+      "korean": "부산역에서 왔어요.",
+      "english": "I came from Busan Station.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 123,
+      "korean": "사진 찍어도 될까요?",
+      "english": "May I take a picture?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 124,
+      "korean": "삼만원이에요.",
+      "english": "It's 30,000 won.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 125,
+      "korean": "안녕하세요. 저는 Chasity예요. Chapel Hill에 살아요. 방사선 종양학에서 일해요. 한국어 배워요. 만나서 반가워요!",
+      "english": "Hello. I am Chasity. I live in Chapel Hill. I work in Radiation Oncology. I'm learning Korean. Nice to meet you!",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 126,
+      "korean": "안녕하세요. 저는 Chasity예요. Chapel Hill에 살아요. 방사선 종양학에서 일해요. 한국어 좋아해요! 5월에 부산에 갈 거예요. 만나서 반가워요!",
+      "english": "Hello. I am Chasity. I live in Chapel Hill. I work in Radiation Oncology. I like Korean! I will go to Busan in May. Nice to meet you!",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 127,
+      "korean": "어서 오세요! 뭐 드릴까요?",
+      "english": "Welcome! What can I get you?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 128,
+      "korean": "영어 가르쳐요.",
+      "english": "I teach English.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 129,
+      "korean": "영화 봐요",
+      "english": "I watch a movie",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 130,
+      "korean": "이거 얼마예요?",
+      "english": "How much is this?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 131,
+      "korean": "자갈치시장에서 먹었어요.",
+      "english": "I ate at Jagalchi Market.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 132,
+      "korean": "자갈치시장에서 먹을 거예요.",
+      "english": "I will eat at Jagalchi Market.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 133,
+      "korean": "저는 선생님이 되고 싶어요.",
+      "english": "I want to become a teacher.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 134,
+      "korean": "저는 영어 선생님이에요.",
+      "english": "I am an English teacher.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 135,
+      "korean": "좀 깎아주세요.",
+      "english": "Please give me a discount.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 136,
+      "korean": "집에 갔어요",
+      "english": "I went home",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 137,
+      "korean": "차 마시고 싶어요",
+      "english": "I want to drink tea",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 138,
+      "korean": "책 읽어요",
+      "english": "I read a book",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 139,
+      "korean": "카페에서 와요",
+      "english": "I come from a cafe",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 140,
+      "korean": "쿠키 먹고 싶어요",
+      "english": "I want to eat a cookie",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 141,
+      "korean": "한국어 배워요.",
+      "english": "I'm learning Korean.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 142,
+      "korean": "한국어로 말해요",
+      "english": "I speak in Korean",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 143,
+      "korean": "해볼까요",
+      "english": "Shall we try?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 144,
+      "korean": "해운대에 갈 거예요.",
+      "english": "I will go to Haeundae.",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 145,
+      "korean": "화장실이 어디예요?",
+      "english": "Where is the bathroom?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 146,
+      "korean": "회 있어요?",
+      "english": "Do you have raw fish?",
+      "lessons": [
+        13
+      ]
+    },
+    {
+      "id": 147,
+      "korean": "겨울에 한국은 추워요.",
+      "english": "Korea is cold in winter.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 148,
+      "korean": "국이 너무 뜨거워요.",
+      "english": "The soup is too hot.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 149,
+      "korean": "그 사람은 좀 차가운 사람이에요.",
+      "english": "That person is a bit of a cold person.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 150,
+      "korean": "날씨가 더워요",
+      "english": "Weather is hot",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 151,
+      "korean": "더운 여름",
+      "english": "Hot summer",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 152,
+      "korean": "도시가 추워요",
+      "english": "City is cold",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 153,
+      "korean": "뜨거운 숲",
+      "english": "Hot soup",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 154,
+      "korean": "방이 추워요",
+      "english": "The room is cold",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 155,
+      "korean": "빵이 차가워요",
+      "english": "The bread is cold",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 156,
+      "korean": "아이스 아메리카노가 차가워요.",
+      "english": "The iced americano is cold.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 157,
+      "korean": "안 갔어요",
+      "english": "Didn't go",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 158,
+      "korean": "어제 뭐 했어요?",
+      "english": "What did you do yesterday?",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 159,
+      "korean": "여름보다 겨울이 더 추워요.",
+      "english": "Winter is colder than summer.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 160,
+      "korean": "여름에 부산은 더워요.",
+      "english": "Busan is hot in summer.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 161,
+      "korean": "영화 지루해요",
+      "english": "The movie is boring",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 162,
+      "korean": "오늘 더워요.",
+      "english": "Today is hot.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 163,
+      "korean": "우리 엄마는 따뜻한 사람이에요.",
+      "english": "My mom is a warm person.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 164,
+      "korean": "이 물이 차가워요.",
+      "english": "This water is cold.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 165,
+      "korean": "이번 주말에 뭐 할 거예요?",
+      "english": "What will you do this weekend?",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 166,
+      "korean": "차가 뜨거워요",
+      "english": "Tea is hot",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 167,
+      "korean": "차가운 물",
+      "english": "Cold water (full form)",
+      "lessons": [
+        14,
+        16
+      ]
+    },
+    {
+      "id": 168,
+      "korean": "추운 겨울",
+      "english": "Cold winter",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 169,
+      "korean": "카드로 계산할게요",
+      "english": "I'll pay by card",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 170,
+      "korean": "커피가 뜨거워요.",
+      "english": "The coffee is hot.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 171,
+      "korean": "커피가 차가워요",
+      "english": "Coffee is cold",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 172,
+      "korean": "커피보다 차가 더 좋아요.",
+      "english": "I like tea more than coffee.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 173,
+      "korean": "한국 사람들은 따뜻한 사람을 좋아해요.",
+      "english": "Korean people like warm people.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 174,
+      "korean": "한국보다 미국이 더 커요.",
+      "english": "America is bigger than Korea.",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 175,
+      "korean": "한국어를 왜 배워요?",
+      "english": "Why are you learning Korean?",
+      "lessons": [
+        14
+      ]
+    },
+    {
+      "id": 176,
+      "korean": "가게에 갔어요.",
+      "english": "I went to the store.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 177,
+      "korean": "가게에 갔어요. 쇼핑했어요.",
+      "english": "I went to the store. I shopped.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 178,
+      "korean": "갱신된 여권과 무제한 여행을 받고 싶어요.",
+      "english": "I want to receive a renewed passport and unlimited travel.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 179,
+      "korean": "관점을 공유해 주셔서 감사합니다",
+      "english": "Thank you for sharing your perspective",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 180,
+      "korean": "그런 사람은 한국어도 빨리 배워요.",
+      "english": "That kind of person learns Korean quickly too.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 181,
+      "korean": "네, 맛있어요.",
+      "english": "Yes, it's delicious.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 182,
+      "korean": "도서관에 갔어요. 공부했어요.",
+      "english": "I went to the library. I studied.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 183,
+      "korean": "맛있어요?",
+      "english": "Is it delicious?",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 184,
+      "korean": "매일 운동하는 것.",
+      "english": "Exercising every day.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 185,
+      "korean": "매일 좋은 습관을 만드는 것.",
+      "english": "Making good habits every day.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 186,
+      "korean": "매일 한국어를 공부하는 것.",
+      "english": "Studying Korean every day.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 187,
+      "korean": "메시지를 받았어요.",
+      "english": "I received a message.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 188,
+      "korean": "무제한 여행을 받고 싶어요.",
+      "english": "I want to receive unlimited travel.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 189,
+      "korean": "무제한 여행이 좋아요.",
+      "english": "Unlimited travel is good.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 190,
+      "korean": "뭐 받고 싶어요?",
+      "english": "What do you want to receive?",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 191,
+      "korean": "병원에 갔어요. 일했어요.",
+      "english": "I went to the hospital. I worked.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 192,
+      "korean": "비스킷과 그레이비를 먹었어요. 커피도 마셨어요.",
+      "english": "I ate biscuits and gravy. I also drank coffee.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 193,
+      "korean": "선물보다 경험을 더 좋아하는 사람이에요.",
+      "english": "She is a person who likes experiences more than gifts.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 194,
+      "korean": "선물을 받았어요.",
+      "english": "I received a gift.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 195,
+      "korean": "쇼핑했어요.",
+      "english": "I shopped.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 196,
+      "korean": "쉬고 싶어요.",
+      "english": "I want to rest.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 197,
+      "korean": "시간을 잘 쓰고 싶어요.",
+      "english": "I want to use my time well.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 198,
+      "korean": "식당에 갔어요. 먹었어요.",
+      "english": "I went to a restaurant. I ate.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 199,
+      "korean": "아무것도 안 받았어요.",
+      "english": "I didn't receive anything.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 200,
+      "korean": "안 먹어요.",
+      "english": "I don't eat it.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 201,
+      "korean": "안 바빠요.",
+      "english": "I'm not busy.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 202,
+      "korean": "안 받고 싶어요.",
+      "english": "I don't want to receive it.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 203,
+      "korean": "안 받고 싶어요. 저는 그런 거 안 좋아해요.",
+      "english": "I don't want to receive anything. I don't like that kind of thing.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 204,
+      "korean": "안 받고 싶어요?",
+      "english": "You don't want to receive anything?",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 205,
+      "korean": "안 좋아해요.",
+      "english": "I don't like it.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 206,
+      "korean": "여권을 갱신하고 싶어요.",
+      "english": "I want to renew my passport.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 207,
+      "korean": "여권을 갱신해요.",
+      "english": "I renew my passport.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 208,
+      "korean": "오늘 뭐 먹었어요?",
+      "english": "What did you eat today?",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 209,
+      "korean": "요즘 날씨가 추워요.",
+      "english": "The weather is cold these days.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 210,
+      "korean": "요즘 많은 사람들이 좋아하는 것을 물어보면 보통 가수나 밴드 이름을 말해요.",
+      "english": "When you ask many people what they like these days, they usually say a singer or band name.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 211,
+      "korean": "요즘 뭐 좋아해요?",
+      "english": "What do you like these days?",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 212,
+      "korean": "요즘 뭐 해요?",
+      "english": "What are you doing lately?",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 213,
+      "korean": "요즘 바빠요.",
+      "english": "I'm busy these days.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 214,
+      "korean": "요즘 한국어 공부해요.",
+      "english": "I'm studying Korean these days.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 215,
+      "korean": "일관성은 매일 같은 노력을 하는 거예요.",
+      "english": "Consistency is making the same effort every day.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 216,
+      "korean": "일관성이 좋아요. 저는 생활 목표가 있어요. 시간과 재능을 잘 관리하고 싶어요.",
+      "english": "I like consistency. I have life goals. I want to manage my time and talents well.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 217,
+      "korean": "일관성이 중요해요.",
+      "english": "Consistency is important.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 218,
+      "korean": "자기 인생의 목표를 아는 사람.",
+      "english": "A person who knows their life goals.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 219,
+      "korean": "재능을 잘 관리해요.",
+      "english": "I manage my talents well.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 220,
+      "korean": "저는 병원에 갔어요.",
+      "english": "I went to the hospital.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 221,
+      "korean": "저는 생활 목표가 있어요.",
+      "english": "I have life goals.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 222,
+      "korean": "저는 선물을 받고 싶어요.",
+      "english": "I want to receive a gift.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 223,
+      "korean": "저는 안 먹어요.",
+      "english": "I don't eat it.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 224,
+      "korean": "저는 어제 병원에 갔어요",
+      "english": "Yesterday, I went to the hospital",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 225,
+      "korean": "저는 여권을 갱신하고 싶어요.",
+      "english": "I want to renew my passport.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 226,
+      "korean": "저는 일했어요",
+      "english": "I worked",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 227,
+      "korean": "저는 카페에서 공부해요.",
+      "english": "I study at a cafe.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 228,
+      "korean": "저는 커피를 안 마셔요.",
+      "english": "I don't drink coffee.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 229,
+      "korean": "전화를 받았어요.",
+      "english": "I received a call.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 230,
+      "korean": "정보를 공유해 주셔서 감사합니다",
+      "english": "Thank you for sharing your information",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 231,
+      "korean": "좋은 관리자가 되고 싶어요.",
+      "english": "I want to become a good steward.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 232,
+      "korean": "집에서 일해요.",
+      "english": "I work at home.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 233,
+      "korean": "초대를 받았어요.",
+      "english": "I received an invitation.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 234,
+      "korean": "카페에 갔어요. 커피 마셨어요.",
+      "english": "I went to the cafe. I drank coffee.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 235,
+      "korean": "카페에서 쉬어요.",
+      "english": "I rest at a cafe.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 236,
+      "korean": "커피를 마시고 싶어요.",
+      "english": "I want to drink coffee.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 237,
+      "korean": "학교에서 공부해요.",
+      "english": "I study at school.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 238,
+      "korean": "한국 사람들은 이런 사람을 '똑똑한 사람'이라고 해요.",
+      "english": "Korean people call this kind of person a 'smart person.'",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 239,
+      "korean": "한국어를 배우고 싶어요.",
+      "english": "I want to learn Korean.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 240,
+      "korean": "한국에 가고 싶어요.",
+      "english": "I want to go to Korea.",
+      "lessons": [
+        15
+      ]
+    },
+    {
+      "id": 241,
+      "korean": "국 뜨거워요",
+      "english": "Soup is hot",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 242,
+      "korean": "나 보이시나요?",
+      "english": "Can you see me?",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 243,
+      "korean": "더운 날씨",
+      "english": "Hot weather",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 244,
+      "korean": "도시 추워요",
+      "english": "The city is cold",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 245,
+      "korean": "드럼에서 왔어요",
+      "english": "I came from Durham",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 246,
+      "korean": "뜨거운 커피",
+      "english": "Hot coffee",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 247,
+      "korean": "빵 차가워요",
+      "english": "Bread is cold",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 248,
+      "korean": "저는 드럼에서 왔어요",
+      "english": "I came from Durham",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 249,
+      "korean": "저는 병원에서 일해요",
+      "english": "I work at the hospital",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 250,
+      "korean": "전국에 비가 와요",
+      "english": "It rains nationwide",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 251,
+      "korean": "좋은 아침",
+      "english": "Good morning",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 252,
+      "korean": "차 뜨거워요",
+      "english": "Tea is hot",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 253,
+      "korean": "차가운 밥",
+      "english": "Cold rice (full form)",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 254,
+      "korean": "찬 물",
+      "english": "Cold water",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 255,
+      "korean": "찬 밥",
+      "english": "Cold rice",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 256,
+      "korean": "채플 힐에 살았어요",
+      "english": "I lived in Chapel Hill",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 257,
+      "korean": "추운 날씨",
+      "english": "Cold weather",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 258,
+      "korean": "커피 차가워요",
+      "english": "Coffee is cold",
+      "lessons": [
+        16
+      ]
+    },
+    {
+      "id": 259,
+      "korean": "한국 추워요",
+      "english": "Korea is cold",
+      "lessons": [
+        16
+      ]
+    }
+  ]
+}

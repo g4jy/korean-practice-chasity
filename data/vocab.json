@@ -1,0 +1,485 @@
+{
+  "student": "Chasity",
+  "action": {
+    "subjects": [
+      { "kr": "저는", "rom": "JEO-NEUN", "en": "I" },
+      { "kr": "우리는", "rom": "U-RI-NEUN", "en": "We" }
+    ],
+    "times": [
+      { "kr": "어제", "rom": "EO-JE", "en": "yesterday", "tense": "past" },
+      { "kr": "오늘", "rom": "O-NEUL", "en": "today", "tense": "present" },
+      { "kr": "내일", "rom": "NAE-IL", "en": "tomorrow", "tense": "future" },
+      { "kr": "지금", "rom": "JI-GEUM", "en": "now", "tense": "present" },
+      { "kr": "요즘", "rom": "YO-JEUM", "en": "these days", "tense": "present" },
+      { "kr": "주말에", "rom": "JU-MAL-E", "en": "on the weekend", "tense": "past" },
+      { "kr": "아침에", "rom": "A-CHIM-E", "en": "in the morning", "tense": "present" },
+      { "kr": "저녁에", "rom": "JEO-NYEOG-E", "en": "in the evening", "tense": "present" }
+    ],
+    "places": [
+      {
+        "kr": "집",
+        "rom": "JIP",
+        "en": "home",
+        "formE": { "kr": "집에", "rom": "JIB-E" },
+        "formEseo": { "kr": "집에서", "rom": "JIB-E-SEO" }
+      },
+      {
+        "kr": "카페",
+        "rom": "KA-PE",
+        "en": "cafe",
+        "formE": { "kr": "카페에", "rom": "KA-PE-E" },
+        "formEseo": { "kr": "카페에서", "rom": "KA-PE-E-SEO" }
+      },
+      {
+        "kr": "식당",
+        "rom": "SIK-DANG",
+        "en": "restaurant",
+        "formE": { "kr": "식당에", "rom": "SIK-DANG-E" },
+        "formEseo": { "kr": "식당에서", "rom": "SIK-DANG-E-SEO" }
+      },
+      {
+        "kr": "병원",
+        "rom": "BYEONG-WON",
+        "en": "hospital",
+        "formE": { "kr": "병원에", "rom": "BYEONG-WON-E" },
+        "formEseo": { "kr": "병원에서", "rom": "BYEONG-WON-E-SEO" }
+      },
+      {
+        "kr": "학교",
+        "rom": "HAK-GYO",
+        "en": "school",
+        "formE": { "kr": "학교에", "rom": "HAK-GYO-E" },
+        "formEseo": { "kr": "학교에서", "rom": "HAK-GYO-E-SEO" }
+      },
+      {
+        "kr": "도서관",
+        "rom": "DO-SEO-GWAN",
+        "en": "library",
+        "formE": { "kr": "도서관에", "rom": "DO-SEO-GWAN-E" },
+        "formEseo": { "kr": "도서관에서", "rom": "DO-SEO-GWAN-E-SEO" }
+      },
+      {
+        "kr": "교회",
+        "rom": "GYO-HOE",
+        "en": "church",
+        "formE": { "kr": "교회에", "rom": "GYO-HOE-E" },
+        "formEseo": { "kr": "교회에서", "rom": "GYO-HOE-E-SEO" }
+      },
+      {
+        "kr": "공원",
+        "rom": "GONG-WON",
+        "en": "park",
+        "formE": { "kr": "공원에", "rom": "GONG-WON-E" },
+        "formEseo": { "kr": "공원에서", "rom": "GONG-WON-E-SEO" }
+      },
+      {
+        "kr": "회사",
+        "rom": "HOE-SA",
+        "en": "company",
+        "formE": { "kr": "회사에", "rom": "HOE-SA-E" },
+        "formEseo": { "kr": "회사에서", "rom": "HOE-SA-E-SEO" }
+      },
+      {
+        "kr": "부산",
+        "rom": "BU-SAN",
+        "en": "Busan",
+        "formE": { "kr": "부산에", "rom": "BU-SAN-E" },
+        "formEseo": { "kr": "부산에서", "rom": "BU-SAN-E-SEO" }
+      },
+      {
+        "kr": "한국",
+        "rom": "HAN-GUK",
+        "en": "Korea",
+        "formE": { "kr": "한국에", "rom": "HAN-GUG-E" },
+        "formEseo": { "kr": "한국에서", "rom": "HAN-GUG-E-SEO" }
+      },
+      {
+        "kr": "해운대",
+        "rom": "HAE-UN-DAE",
+        "en": "Haeundae Beach",
+        "formE": { "kr": "해운대에", "rom": "HAE-UN-DAE-E" },
+        "formEseo": { "kr": "해운대에서", "rom": "HAE-UN-DAE-E-SEO" }
+      }
+    ],
+    "objects": [
+      { "kr": "밥", "rom": "BAP", "en": "rice/food", "category": "food" },
+      { "kr": "고기", "rom": "GO-GI", "en": "meat", "category": "food" },
+      { "kr": "김밥", "rom": "GIM-BAP", "en": "gimbap", "category": "food" },
+      { "kr": "피자", "rom": "PI-JA", "en": "pizza", "category": "food" },
+      { "kr": "고구마", "rom": "GO-GU-MA", "en": "sweet potato", "category": "food" },
+      { "kr": "비스킷", "rom": "BI-SEU-KIT", "en": "biscuit", "category": "food" },
+      { "kr": "회", "rom": "HOE", "en": "raw fish", "category": "food" },
+      { "kr": "커피", "rom": "KEO-PI", "en": "coffee", "category": "drink" },
+      { "kr": "물", "rom": "MUL", "en": "water", "category": "drink" },
+      { "kr": "우유", "rom": "U-YU", "en": "milk", "category": "drink" },
+      { "kr": "책", "rom": "CHAEK", "en": "book", "category": "thing" },
+      { "kr": "영화", "rom": "YEONG-HWA", "en": "movie", "category": "thing" },
+      { "kr": "음악", "rom": "EUM-AK", "en": "music", "category": "thing" },
+      { "kr": "선물", "rom": "SEON-MUL", "en": "gift", "category": "thing" },
+      { "kr": "여권", "rom": "YEO-GWON", "en": "passport", "category": "thing" },
+      { "kr": "한국어", "rom": "HAN-GUG-EO", "en": "Korean language", "category": "thing" }
+    ],
+    "verbs": [
+      {
+        "id": "gada",
+        "en": "go",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "present": "가요",
+        "presentRom": "GA-YO",
+        "presentEn": "go",
+        "past": "갔어요",
+        "pastRom": "GA-SSEO-YO",
+        "pastEn": "went",
+        "future": "갈 거예요",
+        "futureRom": "GAL GGEO-YE-YO",
+        "futureEn": "will go"
+      },
+      {
+        "id": "oda",
+        "en": "come",
+        "objectTypes": [],
+        "placeParticle": "e",
+        "present": "와요",
+        "presentRom": "WA-YO",
+        "presentEn": "come",
+        "past": "왔어요",
+        "pastRom": "WA-SSEO-YO",
+        "pastEn": "came",
+        "future": "올 거예요",
+        "futureRom": "OL GGEO-YE-YO",
+        "futureEn": "will come"
+      },
+      {
+        "id": "meokda",
+        "en": "eat",
+        "objectTypes": ["food"],
+        "placeParticle": "eseo",
+        "present": "먹어요",
+        "presentRom": "MEO-GEO-YO",
+        "presentEn": "eat",
+        "past": "먹었어요",
+        "pastRom": "MEO-GEO-SSEO-YO",
+        "pastEn": "ate",
+        "future": "먹을 거예요",
+        "futureRom": "MEO-GEUL GGEO-YE-YO",
+        "futureEn": "will eat"
+      },
+      {
+        "id": "masida",
+        "en": "drink",
+        "objectTypes": ["drink"],
+        "placeParticle": "eseo",
+        "present": "마셔요",
+        "presentRom": "MA-SYEO-YO",
+        "presentEn": "drink",
+        "past": "마셨어요",
+        "pastRom": "MA-SYEO-SSEO-YO",
+        "pastEn": "drank",
+        "future": "마실 거예요",
+        "futureRom": "MA-SIL GGEO-YE-YO",
+        "futureEn": "will drink"
+      },
+      {
+        "id": "boda",
+        "en": "watch/see",
+        "objectTypes": ["thing"],
+        "placeParticle": "eseo",
+        "present": "봐요",
+        "presentRom": "BWA-YO",
+        "presentEn": "watch",
+        "past": "봤어요",
+        "pastRom": "BWA-SSEO-YO",
+        "pastEn": "watched",
+        "future": "볼 거예요",
+        "futureRom": "BOL GGEO-YE-YO",
+        "futureEn": "will watch"
+      },
+      {
+        "id": "sada",
+        "en": "buy",
+        "objectTypes": ["food", "drink", "thing"],
+        "placeParticle": "eseo",
+        "present": "사요",
+        "presentRom": "SA-YO",
+        "presentEn": "buy",
+        "past": "샀어요",
+        "pastRom": "SA-SSEO-YO",
+        "pastEn": "bought",
+        "future": "살 거예요",
+        "futureRom": "SAL GGEO-YE-YO",
+        "futureEn": "will buy"
+      },
+      {
+        "id": "mannada",
+        "en": "meet",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "present": "만나요",
+        "presentRom": "MAN-NA-YO",
+        "presentEn": "meet",
+        "past": "만났어요",
+        "pastRom": "MAN-NA-SSEO-YO",
+        "pastEn": "met",
+        "future": "만날 거예요",
+        "futureRom": "MAN-NAL GGEO-YE-YO",
+        "futureEn": "will meet"
+      },
+      {
+        "id": "ilhada",
+        "en": "work",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "present": "일해요",
+        "presentRom": "IL-HAE-YO",
+        "presentEn": "work",
+        "past": "일했어요",
+        "pastRom": "IL-HAE-SSEO-YO",
+        "pastEn": "worked",
+        "future": "일할 거예요",
+        "futureRom": "IL-HAL GGEO-YE-YO",
+        "futureEn": "will work"
+      },
+      {
+        "id": "gongbuhada",
+        "en": "study",
+        "objectTypes": ["thing"],
+        "placeParticle": "eseo",
+        "present": "공부해요",
+        "presentRom": "GONG-BU-HAE-YO",
+        "presentEn": "study",
+        "past": "공부했어요",
+        "pastRom": "GONG-BU-HAE-SSEO-YO",
+        "pastEn": "studied",
+        "future": "공부할 거예요",
+        "futureRom": "GONG-BU-HAL GGEO-YE-YO",
+        "futureEn": "will study"
+      },
+      {
+        "id": "baeuda",
+        "en": "learn",
+        "objectTypes": ["thing"],
+        "placeParticle": "eseo",
+        "present": "배워요",
+        "presentRom": "BAE-WO-YO",
+        "presentEn": "learn",
+        "past": "배웠어요",
+        "pastRom": "BAE-WO-SSEO-YO",
+        "pastEn": "learned",
+        "future": "배울 거예요",
+        "futureRom": "BAE-UL GGEO-YE-YO",
+        "futureEn": "will learn"
+      },
+      {
+        "id": "swida",
+        "en": "rest",
+        "objectTypes": [],
+        "placeParticle": "eseo",
+        "present": "쉬어요",
+        "presentRom": "SWI-EO-YO",
+        "presentEn": "rest",
+        "past": "쉬었어요",
+        "pastRom": "SWI-EO-SSEO-YO",
+        "pastEn": "rested",
+        "future": "쉴 거예요",
+        "futureRom": "SWIL GGEO-YE-YO",
+        "futureEn": "will rest"
+      },
+      {
+        "id": "batda",
+        "en": "receive",
+        "objectTypes": ["thing"],
+        "placeParticle": "eseo",
+        "present": "받아요",
+        "presentRom": "BA-DA-YO",
+        "presentEn": "receive",
+        "past": "받았어요",
+        "pastRom": "BA-DA-SSEO-YO",
+        "pastEn": "received",
+        "future": "받을 거예요",
+        "futureRom": "BA-DEUL GGEO-YE-YO",
+        "futureEn": "will receive"
+      }
+    ]
+  },
+  "describe": {
+    "subjects": [
+      { "kr": "커피", "rom": "KEO-PI", "en": "Coffee", "category": "drink" },
+      { "kr": "물", "rom": "MUL", "en": "Water", "category": "drink" },
+      { "kr": "우유", "rom": "U-YU", "en": "Milk", "category": "drink" },
+      { "kr": "밥", "rom": "BAP", "en": "Food", "category": "food" },
+      { "kr": "김치", "rom": "GIM-CHI", "en": "Kimchi", "category": "food" },
+      { "kr": "고기", "rom": "GO-GI", "en": "Meat", "category": "food" },
+      { "kr": "국", "rom": "GUK", "en": "Soup", "category": "food" },
+      { "kr": "날씨", "rom": "NAL-SSI", "en": "Weather", "category": "weather" },
+      { "kr": "운동", "rom": "UN-DONG", "en": "Exercise", "category": "activity" }
+    ],
+    "adjectives": [
+      {
+        "id": "delicious",
+        "kr": "맛있어요",
+        "rom": "MA-SI-SSEO-YO",
+        "en": "delicious",
+        "compatibleSubjects": ["food", "drink"]
+      },
+      {
+        "id": "hot_obj",
+        "kr": "뜨거워요",
+        "rom": "TTEU-GEO-WO-YO",
+        "en": "hot (object)",
+        "compatibleSubjects": ["food", "drink"]
+      },
+      {
+        "id": "cold_obj",
+        "kr": "차가워요",
+        "rom": "CHA-GA-WO-YO",
+        "en": "cold (object)",
+        "compatibleSubjects": ["food", "drink"]
+      },
+      {
+        "id": "warm",
+        "kr": "따뜻해요",
+        "rom": "TTA-TTEUT-HAE-YO",
+        "en": "warm",
+        "compatibleSubjects": ["food", "drink", "weather"]
+      },
+      {
+        "id": "salty",
+        "kr": "짜요",
+        "rom": "JJA-YO",
+        "en": "salty",
+        "compatibleSubjects": ["food"]
+      },
+      {
+        "id": "cold_weather",
+        "kr": "추워요",
+        "rom": "CHU-WO-YO",
+        "en": "cold (weather)",
+        "compatibleSubjects": ["weather"]
+      },
+      {
+        "id": "hot_weather",
+        "kr": "더워요",
+        "rom": "DEO-WO-YO",
+        "en": "hot (weather)",
+        "compatibleSubjects": ["weather"]
+      },
+      {
+        "id": "refreshing",
+        "kr": "시원해요",
+        "rom": "SI-WON-HAE-YO",
+        "en": "refreshing",
+        "compatibleSubjects": ["food", "drink", "weather"]
+      },
+      {
+        "id": "good",
+        "kr": "좋아요",
+        "rom": "JO-A-YO",
+        "en": "good",
+        "compatibleSubjects": ["food", "drink", "weather", "activity"]
+      }
+    ],
+    "adverbs": [
+      { "kr": "너무", "rom": "NEO-MU", "en": "too/very" },
+      { "kr": "정말", "rom": "JEONG-MAL", "en": "really" },
+      { "kr": "조금", "rom": "JO-GEUM", "en": "a little" },
+      { "kr": "아주", "rom": "A-JU", "en": "very" }
+    ]
+  },
+  "flashcards": {
+    "categories": [
+      {
+        "name": "Greetings & Phrases",
+        "cards": [
+          { "kr": "안녕하세요", "rom": "AN-NYEONG-HA-SE-YO", "en": "Hello" },
+          { "kr": "감사합니다", "rom": "GAM-SA-HAM-NI-DA", "en": "Thank you" },
+          { "kr": "고마워요", "rom": "GO-MA-WO-YO", "en": "Thanks (casual)" },
+          { "kr": "만나서 반가워요", "rom": "MAN-NA-SEO BAN-GA-WO-YO", "en": "Nice to meet you" },
+          { "kr": "잘 지냈어요?", "rom": "JAL JI-NAE-SSEO-YO", "en": "How have you been?" },
+          { "kr": "괜찮아요", "rom": "GWAEN-CHA-NA-YO", "en": "It's okay" },
+          { "kr": "주세요", "rom": "JU-SE-YO", "en": "Please give me" },
+          { "kr": "어서 오세요", "rom": "EO-SEO O-SE-YO", "en": "Welcome" }
+        ]
+      },
+      {
+        "name": "Places & Travel",
+        "cards": [
+          { "kr": "교회", "rom": "GYO-HOE", "en": "church" },
+          { "kr": "병원", "rom": "BYEONG-WON", "en": "hospital" },
+          { "kr": "해운대", "rom": "HAE-UN-DAE", "en": "Haeundae Beach" },
+          { "kr": "광안리", "rom": "GWANG-AN-RI", "en": "Gwangalli Beach" },
+          { "kr": "자갈치시장", "rom": "JA-GAL-CHI-SI-JANG", "en": "Jagalchi Market" },
+          { "kr": "부산역", "rom": "BU-SAN-YEOK", "en": "Busan Station" }
+        ]
+      },
+      {
+        "name": "Food & Drinks",
+        "cards": [
+          { "kr": "고구마", "rom": "GO-GU-MA", "en": "sweet potato" },
+          { "kr": "김밥", "rom": "GIM-BAP", "en": "gimbap" },
+          { "kr": "회", "rom": "HOE", "en": "raw fish" },
+          { "kr": "비스킷", "rom": "BI-SEU-KIT", "en": "biscuit" },
+          { "kr": "떡", "rom": "TTEOK", "en": "rice cake" },
+          { "kr": "죽", "rom": "JUK", "en": "porridge" },
+          { "kr": "국", "rom": "GUK", "en": "soup" }
+        ]
+      },
+      {
+        "name": "Temperature & Weather",
+        "cards": [
+          { "kr": "뜨거운", "rom": "TTEU-GEO-UN", "en": "hot (object)" },
+          { "kr": "차가운", "rom": "CHA-GA-UN", "en": "cold (object)" },
+          { "kr": "따뜻한", "rom": "TTA-TTEUT-HAN", "en": "warm" },
+          { "kr": "추운", "rom": "CHU-UN", "en": "cold (weather)" },
+          { "kr": "더운", "rom": "DEO-UN", "en": "hot (weather)" },
+          { "kr": "겨울", "rom": "GYEO-UL", "en": "winter" },
+          { "kr": "여름", "rom": "YEO-REUM", "en": "summer" },
+          { "kr": "비", "rom": "BI", "en": "rain" }
+        ]
+      },
+      {
+        "name": "Korean Idioms",
+        "cards": [
+          { "kr": "식은 죽 먹기", "rom": "SIG-EUN JUK MEOK-GI", "en": "piece of cake" },
+          { "kr": "우는 아이 젖 준다", "rom": "U-NEUN A-I JEOT JUN-DA", "en": "squeaky wheel gets the grease" },
+          { "kr": "기분이 저기압이에요", "rom": "GI-BUN-I JEO-GI-AP-I-E-YO", "en": "feeling blue" },
+          { "kr": "물 흐르듯이", "rom": "MUL HEU-REU-DEU-SI", "en": "go with the flow" },
+          { "kr": "껌이야", "rom": "KKEOM-I-YA", "en": "piece of cake (slang)" },
+          { "kr": "혀가 빠지다", "rom": "HYEO-GA PPA-JI-DA", "en": "exhausted" }
+        ]
+      },
+      {
+        "name": "Daily Life",
+        "cards": [
+          { "kr": "친구", "rom": "CHIN-GU", "en": "friend" },
+          { "kr": "가족", "rom": "GA-JOK", "en": "family" },
+          { "kr": "시간", "rom": "SI-GAN", "en": "time" },
+          { "kr": "선물", "rom": "SEON-MUL", "en": "gift" },
+          { "kr": "여권", "rom": "YEO-GWON", "en": "passport" },
+          { "kr": "일관성", "rom": "IL-GWAN-SEONG", "en": "consistency" }
+        ]
+      },
+      {
+        "name": "Personality",
+        "cards": [
+          { "kr": "따뜻한 사람", "rom": "TTA-TTEUT-HAN SA-RAM", "en": "warm person" },
+          { "kr": "차가운 사람", "rom": "CHA-GA-UN SA-RAM", "en": "cold person" },
+          { "kr": "시원한 사람", "rom": "SI-WON-HAN SA-RAM", "en": "cool person" },
+          { "kr": "뜨거운 사람", "rom": "TTEU-GEO-UN SA-RAM", "en": "passionate person" },
+          { "kr": "똑똑한", "rom": "TTOK-TTOK-HAN", "en": "smart" }
+        ]
+      },
+      {
+        "name": "Question Words",
+        "cards": [
+          { "kr": "어디", "rom": "EO-DI", "en": "where" },
+          { "kr": "뭐", "rom": "MWO", "en": "what" },
+          { "kr": "누구", "rom": "NU-GU", "en": "who" },
+          { "kr": "왜", "rom": "WAE", "en": "why" },
+          { "kr": "어떻게", "rom": "EO-TTEO-KE", "en": "how" },
+          { "kr": "얼마예요", "rom": "EOL-MA-YE-YO", "en": "how much" }
+        ]
+      }
+    ]
+  }
+}
